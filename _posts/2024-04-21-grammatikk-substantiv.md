@@ -25,4 +25,4 @@ korte intetkjønnsord får ikke -er
 et egg.. mange egg  
 
 
-{% include embed/youtube.html id='v=y_Iph3TfF_E&list=PLxH5e8YVckhalLGLWX_Jqlq-dyvoTIbM0&index=7' %}
+{% include embed/youtube.html id='y_Iph3TfF_E?si=TWGagm2CGfQiE7ip' %}
