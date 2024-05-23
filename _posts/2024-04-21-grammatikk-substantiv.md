@@ -24,3 +24,5 @@ en kopp.. to kopper.. tre kopper
 korte intetkjønnsord får ikke -er   
 et egg.. mange egg  
 
+
+{% include embed/youtube.html id='v=y_Iph3TfF_E&list=PLxH5e8YVckhalLGLWX_Jqlq-dyvoTIbM0&index=7' %}
