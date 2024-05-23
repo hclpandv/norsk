@@ -13,7 +13,7 @@ I will try and keep this blog updated as I go along.
 {: .prompt-tip }
 
 Norsk online Matarial  
-[På gang](http://paagang.com/) *Intermediate Grammer*
+[På gang](https://paagang.com/) *Intermediate Grammer*
 
 Youtube Channels  
 [Lær norsk](https://www.youtube.com/@learn-norwegian-truong/playlists) *Good for A1-A2-B1 På Vei*
