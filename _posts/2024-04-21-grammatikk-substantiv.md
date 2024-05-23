@@ -3,7 +3,7 @@ title: Substantive
 author: hclpandv
 date: 2024-04-21 11:33:00 +0800
 categories: [Language, Norsk, Grammatikk]
-tags: [Norsk, Language, PåVei, grammatikk]
+tags: [Norsk, Language, grammatikk]
 mermaid: true
 ---
 
