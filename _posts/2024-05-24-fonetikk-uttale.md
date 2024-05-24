@@ -23,6 +23,6 @@ short vowel when followed by double consonant and long vowel when followed by si
 |---|---|---|---|
 | sj, ski, skj, sky | `ʃ` | काश	kāś	shoe | Sjelden, skip, skjule, skyte | 
 | Ky, ki, kj | `ç` | ????| Kyst, kiske, kjøre |
-| Ng | `ŋ` | रंग	raṅg bang | Mange, Land |
+| Ng | `ŋ` | रंग	raṅg bang | Mange, Lang |
 
 
