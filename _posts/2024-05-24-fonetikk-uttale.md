@@ -25,8 +25,8 @@ short vowel when followed by double consonant and long vowel when followed by si
 | pattern  | sound (IPA)| Hindi/English approx | Examples |
 |---|---|---|---|
 | sj, ski, skj, sky | `ʃ` | काश	kāś	shoe | Sjelden <i class="fas fa-volume-up" onclick="speakText('Sjelden')"></i>, skip <i class="fas fa-volume-up" onclick="speakText('skip')"></i>, skjule <i class="fas fa-volume-up" onclick="speakText('skjule')"></i>, skyte <i class="fas fa-volume-up" onclick="speakText('skyte')"></i> | 
-| Ky, ki, kj | `ç` | ????| Kyst, kiske, kjøre |
-| Ng | `ŋ` | रंग	raṅg bang | Mange, Lang |
+| Ky, ki, kj | `ç` | ????| Kyst <i class="fas fa-volume-up" onclick="speakText('Kyst')"></i>, kiske <i class="fas fa-volume-up" onclick="speakText('kiske')"></i>, kjøre <i class="fas fa-volume-up" onclick="speakText('kjøre')"></i>|
+| Ng | `ŋ` | रंग	raṅg bang | Mange <i class="fas fa-volume-up" onclick="speakText('Mange')"></i>, Lang <i class="fas fa-volume-up" onclick="speakText('Lang')"></i>|
 
 
 | pattern  | effect | Examples |
