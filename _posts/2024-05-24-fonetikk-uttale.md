@@ -17,4 +17,12 @@ short vowel when followed by double consonant and long vowel when followed by si
 | Bilde (Picture) | Bil (Car) |
 | Stille (quiet) | stil (style) |
 
+* Sounds
+
+| pattern  | sound (IPA)| Hindi/English approx | Examples |
+|---|---|---|---|
+| sj, ski, skj, sky | `ʃ` | काश	kāś	shoe | Sjelden, skip, skjule, skyte | 
+| Ky, ki, kj | `ç` | ????| Kyst, kiske, kjøre |
+| Ng | `ŋ` | रंग	raṅg bang | Mange, Land |
+
 
