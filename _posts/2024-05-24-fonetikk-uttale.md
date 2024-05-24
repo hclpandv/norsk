@@ -16,3 +16,5 @@ short vowel when followed by double consonant and long vowel when followed by si
 | Penn (Pen) | Pen (Pretty) |
 | Bilde (Picture) | Bil (Car) |
 | Stille (quiet) | stil (style) |
+
+
