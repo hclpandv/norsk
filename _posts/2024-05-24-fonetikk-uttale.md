@@ -26,3 +26,10 @@ short vowel when followed by double consonant and long vowel when followed by si
 | Ng | `ŋ` | रंग	raṅg bang | Mange, Lang |
 
 
+| pattern  | effect | Examples |
+|---|---|---|
+| words ending with `-lig` | g is silent | Vanlig, merlelig | 
+| G and H in front of J | G,H is silent | Gjelder, hjul |
+| H in words starting with `hv-` | h is silent | hvem, hva, hvor, hvorfor  |
+| words ending with `-d` | d is silent | Bord, råd til  |
+| Usually after long vowels `-l` and `-n` | sounds like double consonants | kald -> `kall`, rund -> `runn` |
