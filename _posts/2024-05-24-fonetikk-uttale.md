@@ -17,7 +17,7 @@ short vowel when followed by double consonant and long vowel when followed by si
 | Bilde (Picture) | Bil (Car) |
 | Stille (quiet) | stil (style) |
 
-* Sounds
+Sounds
 
 | pattern  | sound (IPA)| Hindi/English approx | Examples |
 |---|---|---|---|
