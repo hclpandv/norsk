@@ -32,7 +32,7 @@ short vowel when followed by double consonant and long vowel when followed by si
 | pattern  | effect | Examples |
 |---|---|---|
 | words ending with `-lig` | g is silent | Vanlig <i class="fas fa-volume-up" onclick="speakText('Vanlig')"></i>, merlelig <i class="fas fa-volume-up" onclick="speakText('merlelig')"></i>| 
-| G and H in front of J | G,H is silent | Gjelder, hjul |
+| G and H in front of J | G,H is silent | Gjelder <i class="fas fa-volume-up" onclick="speakText('Gjelder')"></i>, hjul <i class="fas fa-volume-up" onclick="speakText('hjul')"></i> |
 | H in words starting with `hv-` | h is silent | hvem, hva, hvor, hvorfor  |
-| words ending with `-d` | d is silent | Bord, råd til  |
-| Usually after long vowels `-l` and `-n` | sounds like double consonants | kald -> `kall`, rund -> `runn` |
+| words ending with `-d` | d is silent | Bord <i class="fas fa-volume-up" onclick="speakText('Bord')"></i>, råd til <i class="fas fa-volume-up" onclick="speakText('råd til')"></i>  |
+| Usually after long vowels `-l` and `-n` | sounds like double consonants | kald -> `kall` <i class="fas fa-volume-up" onclick="speakText('kald')"></i>, rund -> `runn` <i class="fas fa-volume-up" onclick="speakText('runn')"></i>|
