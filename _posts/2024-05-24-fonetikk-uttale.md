@@ -7,7 +7,7 @@ tags: [Norsk, Language, fonetikk]
 mermaid: true
 ---
 
-Norsk follows short vowel and long vowel rule. 
+Norsk follows short vowel and long vowel rule.  
 short vowel when followed by double consonant and long vowel when followed by single consonant.  
 
 |   |   |
