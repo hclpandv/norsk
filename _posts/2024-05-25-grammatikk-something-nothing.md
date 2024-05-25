@@ -28,5 +28,5 @@ Det var `ingen` hjemme  *There was nobody home* (`Ingen` is often used as an ind
 Man skal være `noe` forsiktig   *One should be `a little` careful* (when used as an adverb can replace the word `litt`, a little)  
 
 `Noen` av dem vi møtte og `noe` av det vi så   *Some of those we met and some of what we saw*  
-Ikke `noe` problem *Not a problem*  
+`Ikke noe` problem *Not a problem*  
 `Ingen` problem *No problem*  
