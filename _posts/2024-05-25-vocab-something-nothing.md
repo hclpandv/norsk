@@ -10,8 +10,7 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-Norsk follows short vowel and long vowel rule.  
-short vowel when followed by double consonant and long vowel when followed by single consonant.  
+These words are really confusing lets start decoding these..
 
 |   |   |
 |---|---|
