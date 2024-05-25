@@ -21,10 +21,10 @@ These words are really confusing lets start decoding these..
 
 Lets look at few examples:  
 
-Jeg har `noe` å vise deg. *I have something to show you*  
-Sa `noen` `noe` om mat ? *Did someone say something about food?*   
-Ikke gjør `noe` overilt *Dont do anything in rush* (Sometimes `noe` can mean `anything` often after a `verb`)  
+Jeg har `noe` å vise deg.  *I have something to show you*  
+Sa `noen` `noe` om mat ?  *Did someone say something about food?*   
+Ikke gjør `noe` overilt  *Dont do anything in rush* (Sometimes `noe` can mean `anything` often after a `verb`)  
 Det var `ingen` hjemme  *There was nobody home* (`Ingen` is often used as an indefenite pronoun)  
-Man skal være `noe` forsiktig  *One should be `a little` careful* (when used as an adverb can replace the word `litt`, a little)  
+Man skal være `noe` forsiktig   *One should be `a little` careful* (when used as an adverb can replace the word `litt`, a little)  
 
-
+`Noen` av dem vi møtte og `noe` av det vi så   *Some of those we met and some of what we saw*
