@@ -27,4 +27,6 @@ Ikke gjør `noe` overilt  *Dont do anything in rush* (Sometimes `noe` can mean `
 Det var `ingen` hjemme  *There was nobody home* (`Ingen` is often used as an indefenite pronoun)  
 Man skal være `noe` forsiktig   *One should be `a little` careful* (when used as an adverb can replace the word `litt`, a little)  
 
-`Noen` av dem vi møtte og `noe` av det vi så   *Some of those we met and some of what we saw*
+`Noen` av dem vi møtte og `noe` av det vi så   *Some of those we met and some of what we saw*  
+Ikke `noe` problem *Not a problem*  
+`Ingen` problem *No problem*  
