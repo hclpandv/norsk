@@ -9,15 +9,19 @@ mermaid: true
 
 **Introduser deg selv**  
 
-{% include embed/youtube.html id='IJ81KZI0-L8?si=yA6e5u0xzPUI8jkK' %}  
+{% include embed/youtube.html id='UgMfgmz0Pq0?si=8Av9u7jzAL2YU3bv' %}  
 
-**Etter frokost**  
+**Pronomen**  
 
-{% include embed/youtube.html id='optvTgsVcbs?si=UnuVVa4RLqmEhHwK' %}  
+{% include embed/youtube.html id='s1W65Anw0cE?si=TKUg7oj6BEta_m8_' %}  
 
-**Om vær og årstider i Norge**
+**Pronomen - Objektsform**
 
-{% include embed/youtube.html id='329k5HMrIvQ?si=wHCUsEXwp_9Zmg_4' %}  
+{% include embed/youtube.html id='6Px_jT0-NrE?si=71kmo0qbIYYijA3M' %}  
+
+**Substantiv**
+
+{% include embed/youtube.html id='4fE23PqFpJc?si=-GtOe2dQjpUjRtOZ' %}  
 
 **Det er snart jul**
 
