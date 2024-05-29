@@ -14,7 +14,10 @@ Norsk online Matarial
 [På gang](https://paagang.com/) *Intermediate Grammer*
 
 Youtube Channels  
-[Lær norsk](https://www.youtube.com/@learn-norwegian-truong/playlists) *Good for A1-A2-B1 På Vei*
+[Lær norsk](https://www.youtube.com/@learn-norwegian-truong/playlists) *Good for A1-A2-B1 På Vei*  
+
+Norwegian Grammer and related text (quite good read)    
+https://ucldata.atlassian.net/wiki/spaces/ScanStuds/pages/49086585/Norwegian+Grammar
 
 Songs and Entertainment  
 [Stjernestøv, by Aurora](https://www.youtube.com/watch?v=3lFkDc6dFoY) *Beautiful song with English and Norsk subs. Stjernestøv=Stardust*  
