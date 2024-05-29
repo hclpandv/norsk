@@ -14,6 +14,17 @@ mermaid: true
 Svake verb er verb som får endelse i preteritum  
 Vi har fire grupper med svake verb. Disse gruppene kalles v1, v2, v3, v4. `Kalles=is called (notice s ending)`  
 
+#### V1 (ending with `-et/a`)
+
+| INFINITIVE  | PRESENS| PRETERITUM `-et/-a` | PRESENS PERFEKTUM `-et/-a` |
+|---|---|---|---|
+| a snakke | snakker | snakket | har snakket  | 
+| a bade | bader | badet | har badet  | 
+| a danse | danser | danset | har danset  | 
+| a jogge (jogging) | jogger | jogget | har jogget  | 
+
+
+
 
 
 {% include embed/youtube.html id='PVlw_bJqDKM?si=TsjrRlBxuVWxdlgd' %}
