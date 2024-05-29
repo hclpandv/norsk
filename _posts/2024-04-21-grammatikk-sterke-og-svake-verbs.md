@@ -18,11 +18,19 @@ Vi har fire grupper med svake verb. Disse gruppene kalles v1, v2, v3, v4. `Kalle
 
 | INFINITIVE  | PRESENS| PRETERITUM `-et/-a` | PRESENS PERFEKTUM `-et/-a` |
 |---|---|---|---|
-| a snakke | snakker | snakket | har snakket  | 
-| a bade | bader | badet | har badet  | 
-| a danse | danser | danset | har danset  | 
-| a jogge (jogging) | jogger | jogget | har jogget  | 
+| å snakke | snakker | snakket | har snakket  | 
+| å bade | bader | badet | har badet  | 
+| å danse | danser | danset | har danset  | 
+| å jogge (jogging) | jogger | jogget | har jogget  | 
 
+#### V2 (ending with `-te og -t`)
+
+| INFINITIVE  | PRESENS| PRETERITUM `-te` | PRESENS PERFEKTUM `-t` |
+|---|---|---|---|
+| å lese | leser | leste | har lest  | 
+| å begynne | begynner | begynnte | har begynt  | 
+| å bruke | buker | bukte | har brukt  | 
+| å kjøpe | kjøper | kjøpet | har kjøpt  | 
 
 
 
