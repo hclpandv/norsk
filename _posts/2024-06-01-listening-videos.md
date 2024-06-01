@@ -23,3 +23,20 @@ God morgen fugler små (small birds)
 God morgen kjære lyse sol på himlen klar og blå (kjære=dear `lyse sol=bright sun` himlen=sky klar=clear blå=blue )
 Hei hå
 ```
+
+**Fingerfamilien (Tommelfinger tommelfinger hvor er du?)**
+
+{% include embed/youtube.html id='Eloav5WCJ7M?si=XPHirFFxCk_rqyqr' %}
+
+```
+Tommelfinger, tommelfinger
+hvor er du?
+Her er jeg, her er jeg
+Goddag, goddag, goddag.
+
+Pekefinger, pekefinger etc.
+Langfinger
+Ringfinger
+Lillefinger
+Hele hånden
+```
