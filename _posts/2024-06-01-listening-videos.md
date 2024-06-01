@@ -14,4 +14,12 @@ mermaid: true
 
 {% include embed/youtube.html id='SJ_RWf9ztOA?si=UiGC-oriYX-fcdoZ' %}
 
-
+```
+God morgen alle sammen
+God morgen far og mor
+God morgen lillesøster god morgen storebror
+God morgen trær og blomster (trees and Flowers)
+God morgen fugler små (small birds)
+God morgen kjære lyse sol på himlen klar og blå (kjære=dear `lyse sol=bright sun` himlen=sky klar=clear blå=blue )
+Hei hå
+```
