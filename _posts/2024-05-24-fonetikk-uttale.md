@@ -2,7 +2,7 @@
 title: Uttale (Pronounciation)
 author: hclpandv
 date: 2024-05-24 11:33:00 +0800
-categories: [Language, Norsk, fonetikk]
+categories: [Norsk, fonetikk]
 tags: [Norsk, Language, fonetikk]
 mermaid: true
 ---
