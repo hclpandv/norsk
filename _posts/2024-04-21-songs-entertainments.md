@@ -2,7 +2,7 @@
 title: Songs and Entertainments in Norsk 
 author: hclpandv
 date: 2024-04-21 11:33:00 +0800
-categories: [Norsk, Entertainment]
+categories: [Norsk, entertainment]
 tags: [Norsk, Language, entertainment]
 mermaid: true
 ---
