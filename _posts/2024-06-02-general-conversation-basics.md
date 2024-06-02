@@ -28,6 +28,9 @@ mermaid: true
 
 | Norsk  | Engelsk |
 |---|---|
-| Jeg forstår ikke  |  I dont understand |
-| Hva sa du?  |  what did you say? |
-| jeg har et spørsmål | I have a question |
+| Jeg liker å lese bøker  |  I like to read books |
+| Men, Jeg liker ikke å lage mat  |  But, I dont like to cook food |
+| Jeg jobber på HCL | I work at HCL|
+| Hvilket språk snakker du ? | which language do you speak? |
+| Hva liker du å gjøre? | what you like to do? |
+
