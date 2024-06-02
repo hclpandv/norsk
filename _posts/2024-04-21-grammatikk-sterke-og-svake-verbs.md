@@ -2,7 +2,7 @@
 title: Sterke og svake verb (Irregular and regular verbs)
 author: hclpandv
 date: 2024-05-29 11:33:00 +0800
-categories: [Norsk, Grammatikk]
+categories: [Norsk, grammatikk]
 tags: [Norsk, Language, grammatikk]
 mermaid: true
 ---
