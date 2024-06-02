@@ -34,3 +34,10 @@ mermaid: true
 | Hvilket språk snakker du ? | which language do you speak? |
 | Hva liker du å gjøre? | what you like to do? |
 
+## på mat butikken (at the grocery store)
+
+| Norsk  | Engelsk |
+|---|---|
+| Jeg har sett bananer på `hyllen` |  I have seen the bananas on the shelf |
+| isen er i `kjøleskapet`  |  ice is in the fridge |
+
