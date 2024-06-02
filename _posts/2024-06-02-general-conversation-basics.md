@@ -38,6 +38,14 @@ mermaid: true
 
 | Norsk  | Engelsk |
 |---|---|
+| Kan jeg få kvitteringen? | Can I have the reciept? |
+| Kan jeg få en pose? | Can I have a polythene? |
+| Kan jeg betale med kort ? | Can I pay with card? |
+| Unnskyld, vet du hvor mjelken er? | Excuse me, do you know where the milk is? |
+| Hvor er frukten? | where is the fruit? |
+| Jeg `leter etter` melken | I am `looking for` milk |
+| Kan du hjelpe meg med å finne brødene?  | Can you help me to find the breds? |
 | Jeg har sett bananer på `hyllen` |  I have seen the bananas on the shelf |
 | isen er i `kjøleskapet`  |  ice is in the fridge |
-
+| Pizzaer i `frysedisken`  |  pizza is in the fridge |
+| vi `kjøper` og `samler` i `handlekurven`  |  we buy and collect in shopping cart |
