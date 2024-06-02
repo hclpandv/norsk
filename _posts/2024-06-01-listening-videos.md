@@ -2,7 +2,7 @@
 title: Listening in Norsk 
 author: hclpandv
 date: 2024-06-01 11:33:00 +0800
-categories: [Language, Norsk, Entertainment]
+categories: [Norsk, listening]
 tags: [Norsk, Language, entertainment]
 mermaid: true
 ---
