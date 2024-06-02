@@ -3,7 +3,7 @@ title: Conversation Basics
 author: hclpandv
 date: 2024-06-02 11:33:00 +0800
 categories: [Norsk, general]
-tags: [Norsk, Language, fonetikk]
+tags: [Norsk, Language, general]
 mermaid: true
 ---
 
