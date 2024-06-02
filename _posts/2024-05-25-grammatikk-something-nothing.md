@@ -2,7 +2,7 @@
 title: Something about Nothing - Noe, Noen, Ikke noe, Ingen
 author: hclpandv
 date: 2024-05-24 11:33:00 +0800
-categories: [Language, Norsk, grammatikk]
+categories: [Norsk, grammatikk]
 tags: [Norsk, Language, grammatikk]
 mermaid: true
 ---
