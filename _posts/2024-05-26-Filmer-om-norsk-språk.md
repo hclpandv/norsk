@@ -2,8 +2,8 @@
 title: 'Filmer om norsk språk'
 author: hclpandv
 date: 2024-04-21 11:33:00 +0800
-categories: [Language, Norsk]
-tags: [Norsk, Language, PåVei]
+categories: [Norsk, listening]
+tags: [Norsk, Language, listening, entertainment]
 mermaid: true
 ---
 
