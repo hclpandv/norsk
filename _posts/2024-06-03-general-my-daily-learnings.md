@@ -15,4 +15,6 @@ som ofte tar sikte på å løse et spesifikt problem eller lære et bestemt kons
 
 `innebærer` applies on involves.   
 `bestemt` unique or defenite i.e. *Substantive i bestemt form*  
-`fordeler` benefits  
+`fordeler` benefits or advantages  
+`sikte` Aim  
+`å løse` to solve.  
