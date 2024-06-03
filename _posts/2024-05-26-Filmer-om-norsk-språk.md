@@ -7,7 +7,7 @@ tags: [Norsk, Language, listening, entertainment]
 mermaid: true
 ---
 
-**Introduser deg selv**  
+**Introduser deg selv**    
 
 {% include embed/youtube.html id='UgMfgmz0Pq0?si=8Av9u7jzAL2YU3bv' %}  
 
@@ -15,14 +15,34 @@ mermaid: true
 
 {% include embed/youtube.html id='s1W65Anw0cE?si=TKUg7oj6BEta_m8_' %}  
 
-**Pronomen - Objektsform**
+**Pronomen - Objektsform**  
 
 {% include embed/youtube.html id='6Px_jT0-NrE?si=71kmo0qbIYYijA3M' %}  
 
-**Substantiv**
+**Substantiv**  
 
 {% include embed/youtube.html id='4fE23PqFpJc?si=-GtOe2dQjpUjRtOZ' %}  
 
-**Det er snart jul**
+**Modalverb**  
 
-{% include embed/youtube.html id='oV-azJaK-ik?si=wem2tFfl5h37zBO1' %}  
+{% include embed/youtube.html id='Y6BpVGxQd80?si=QYkNuAF5MJk47gEj' %}  
+
+**Substantiv - bestemt form**  
+
+{% include embed/youtube.html id='kefPn6lTyo0?si=26zEvr7Rq4JobGUp' %}  
+
+**Adjektiv**  
+
+{% include embed/youtube.html id='ScWNQg5sgmM?si=UXOTT_qNoKL2F3SQ' %}  
+
+**Possessiver - eiendomsord** `eiendomsord=property words`   
+
+{% include embed/youtube.html id='yeVUAqXdn4s?si=9syTot3Zu3pyjKyB' %}  
+
+**Verb i preteritum**  
+
+{% include embed/youtube.html id='TjL0H0EEoPg?si=5ijnhZyMdspPGruv' %}  
+
+**Leddsetninger med spørreord : hva, hvem, hvor, hvorfor** Interesting  
+
+{% include embed/youtube.html id='CYkXSfwYWTM?si=L2Hzw0I3DSp2T4sH' %}  
