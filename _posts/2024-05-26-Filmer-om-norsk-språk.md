@@ -43,6 +43,14 @@ mermaid: true
 
 {% include embed/youtube.html id='TjL0H0EEoPg?si=5ijnhZyMdspPGruv' %}  
 
+**Kapittel 9: Setninger med AT og OM**  
+
+{% include embed/youtube.html id='H-Y6RTxw3rU?si=ij1E11N_aOPZ8s-l' %}  
+
+**Kapittel 10: Presens perfektum**  
+
+{% include embed/youtube.html id='0KRFRfoLwMA?si=5YvGo5FNMpcNOVhe' %}  
+
 **Kapittel 12: Leddsetninger med spørreord : hva, hvem, hvor, hvorfor** Interesting  
 
 {% include embed/youtube.html id='CYkXSfwYWTM?si=L2Hzw0I3DSp2T4sH' %}  
