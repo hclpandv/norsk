@@ -51,6 +51,18 @@ mermaid: true
 
 {% include embed/youtube.html id='0KRFRfoLwMA?si=5YvGo5FNMpcNOVhe' %}  
 
+**Kapittel 11: Adjektiv i bestemt form**  
+
+{% include embed/youtube.html id='PN2HSGhnDIY?si=dWdhofJ8xohSxT8F' %}  
+
 **Kapittel 12: Leddsetninger med spørreord : hva, hvem, hvor, hvorfor** Interesting  
 
 {% include embed/youtube.html id='CYkXSfwYWTM?si=L2Hzw0I3DSp2T4sH' %}  
+
+**Kapittel 13: Adjektiv Komparativ og superlativ**  
+
+{% include embed/youtube.html id='5tZDAYHTI4Q?si=lcACcHkCpt-Bha2j' %}  
+
+**Kapittel 14: Uttrykk med SOM**  
+
+{% include embed/youtube.html id='jwVkek0Drfs?si=XlRDCObA8qcbhAfq' %}  
