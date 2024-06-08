@@ -16,8 +16,10 @@ mermaid: true
 |---|---|
 | Seriøst <i class="fas fa-volume-up" onclick="speakText('Seriøst')"></i> `Seriously`|  Jeg har fått ny bil! `Seriøst` |
 | å chille `to relax`| Hva gjør du? `Jeg bare chiller, enn du det?` |
-| Bare kødder `Just joking`| Er du seriøs? `Neida, Jeg bare kødder` |
 | Bare kødder `Just joking`| Er du seriøs? `Neida, Jeg bare kødder` <i class="fas fa-volume-up" onclick="speakText('Neida, Jeg bare kødder')"></i> |
+| Skjerp deg `Behave yourself`| Skjerp deg nå <i class="fas fa-volume-up" onclick="speakText('Skjerp deg nå')"></i> |
+| Pell deg vekk `Go away`| Pell deg vekk Olav! <i class="fas fa-volume-up" onclick="speakText('Pell deg vekk Olav!')"></i> |
+
 
 
 
