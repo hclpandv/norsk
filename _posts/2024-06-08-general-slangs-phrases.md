@@ -22,6 +22,7 @@ mermaid: true
 | sykt `Really good`| Filmen var syk! |
 | Herregud `OMG`| Herregud du er treg! <i class="fas fa-volume-up" onclick="speakText('Herregud du er treg!')"></i> |
 | å krangle `to fight/to argue`| Jeg vil ikke krangle med deg <i class="fas fa-volume-up" onclick="speakText('Jeg vil ikke krangle med deg')"></i> |
+| vors `pre-party` <i class="fas fa-volume-up" onclick="speakText('vors')"></i> | Vi har vors til meg i dag (pre-party at my place) |
 
 
 
