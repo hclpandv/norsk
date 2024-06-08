@@ -19,6 +19,10 @@ mermaid: true
 | Bare kødder `Just joking`| Er du seriøs? `Neida, Jeg bare kødder` <i class="fas fa-volume-up" onclick="speakText('Neida, Jeg bare kødder')"></i> |
 | Skjerp deg `Behave yourself`| Skjerp deg nå <i class="fas fa-volume-up" onclick="speakText('Skjerp deg nå')"></i> |
 | Pell deg vekk `Go away`| Pell deg vekk Olav! <i class="fas fa-volume-up" onclick="speakText('Pell deg vekk Olav!')"></i> |
+| sykt `Really good`| Filmen var syk! |
+| Herregud `OMG`| Herregud du er treg! <i class="fas fa-volume-up" onclick="speakText('Herregud du er treg!')"></i> |
+| å krangle `to fight/to argue`| Jeg vil ikke krangle med deg <i class="fas fa-volume-up" onclick="speakText('Jeg vil ikke krangle med deg')"></i> |
+
 
 
 
