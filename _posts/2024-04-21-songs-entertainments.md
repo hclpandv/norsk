@@ -14,6 +14,7 @@ Norsk online Matarial
 [På gang](https://paagang.com/) *Intermediate Grammer*  
 [Med tusen ord](https://mto.portfolio.no/) *online exercise*  
 [Interactive grammer exercise](https://tekstlab.uio.no/igin/bm/) *online exercise*    
+[grammatikk](https://grammatikk.com/) *very Good resource to underdstnnd grammer and pronounciations*
 
 Youtube Channels  
 [Lær norsk](https://www.youtube.com/@learn-norwegian-truong/playlists) *Good for A1-A2-B1 På Vei*  
