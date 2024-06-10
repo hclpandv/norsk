@@ -48,5 +48,6 @@ Norwegian has nine vowels: a, e, i, o, u, y, æ, ø and å. [credit/ref](https:/
 | i | The letter i is always pronounced as English ee in sleep. |
 | o | `/o/` round your lips like when you whistle and pull your tongue as far back as you can. <br> sometimes pronounced like `/å/` (for example komme, over). |
 | u | round your lips like when you whistle and say an `/i/` with your lips rounded. <br> You can practise this with the English word sleep. <br> If you say this with the lips rounded, the ee will the be replaced by a perfect `/u/`<br> sometimes pronounced `/o/` (ie ung, dum) |
-| æ | Pronounced as a mix between /a/ and /e/. To produce this sound, <br> open your mouth wide open – pretend you try to eat a hamburger in one bite! – while saying /e/ |
-| æ | The `/ø/` is an `/e/` with rounded lips. The tongue should be in the same position as when you say /e/, and your lips should be rounded. <br> The opening between the lips should be too big to whistle. <br> Make sure to push your tongue forward as for the /e/. If the tongue slides back, you will end up with an /å/ (see below)|
+| æ | a mix between /a/ and /e/. To produce this sound, <br> open your mouth wide open – pretend you try to eat a hamburger in one bite! – while saying /e/ |
+| ø | `/ø/` is an `/e/` with rounded lips. The tongue should be in the same position as when you say /e/, and your lips should be rounded. <br> The opening between the lips should be too big to whistle. <br> Make sure to push your tongue forward as for the /e/. If the tongue slides back, you will end up with an /å/ (see below)|
+| å | `å` is always pronounced like the letter o in English, you will find this sound in the word song.|
