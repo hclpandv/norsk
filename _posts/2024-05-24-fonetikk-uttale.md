@@ -39,7 +39,7 @@ short vowel when followed by double consonant and long vowel when followed by si
 
 The Norwegian vowels:  
   
-Norwegian has nine vowels: a, e, i, o, u, y, æ, ø and å. [credit/ref](https://grammatikk.com/pdf/Vokaler.pdf))
+Norwegian has nine vowels: a, e, i, o, u, y, æ, ø and å. [credit/ref](https://grammatikk.com/pdf/Vokaler.pdf)  
 
 | Vowel  | Sound   |
 |---|---|
