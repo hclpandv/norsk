@@ -36,3 +36,18 @@ short vowel when followed by double consonant and long vowel when followed by si
 | H in words starting with `hv-` | h is silent | hvem, hva, hvor, hvorfor  |
 | words ending with `-d` | d is silent | Bord <i class="fas fa-volume-up" onclick="speakText('Bord')"></i>, råd til <i class="fas fa-volume-up" onclick="speakText('råd til')"></i>  |
 | Usually after long vowels `-l` and `-n` | sounds like double consonants | kald -> `kall` <i class="fas fa-volume-up" onclick="speakText('kald')"></i>, rund -> `runn` <i class="fas fa-volume-up" onclick="speakText('runn')"></i>|
+
+The Norwegian vowels:  
+  
+Norwegian has nine vowels: a, e, i, o, u, y, æ, ø and å. [credit/ref](https://grammatikk.com/pdf/Vokaler.pdf))
+
+| Vowel  | Sound   |
+|---|---|
+| a | The written a is always pronounced like a in the English word father. It is also pronounced in this way before -ll, like in the words ball and alle in Norwegian. |
+| e | The letter e is usually pronounced like in the English words send and very. However, in some frequent words it is pronounced like the
+letter æ (see under æ below). The words er and her are examples of this. In the word de, the e is pronounced as a Norwegian i. |
+| i | The letter i is always pronounced as English ee in sleep. |
+| o | To say an /o/, round your lips like when you whistle and pull your
+tongue as far back as you can. This is the same sound as represented
+by the letter u in many languages, like Spanish, Italian and Slavic languages. The letter o is usually pronounced `/o/` in Norwegian, but sometimes it is pronounced like `/å/` (for example komme, over). |
+
