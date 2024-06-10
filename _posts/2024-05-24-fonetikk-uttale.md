@@ -43,9 +43,9 @@ Norwegian has nine vowels: a, e, i, o, u, y, æ, ø and å. [credit/ref](https:/
 
 | Vowel  | Sound   |
 |---|---|
-| a | The written a is always pronounced like a in the English word father. It is also pronounced in this way before -ll, like in the words ball and alle in Norwegian. |
-| e | The letter e is usually pronounced like in the English words send and very. However, in some frequent words it is pronounced like the letter æ (see under æ below). The words er and her are examples of this. In the word de, the e is pronounced as a Norwegian i |
+| a | like a in the English word father. before -ll, like the words ball and alle |
+| e | like in the English words send and very. However, sometime like the letter æ. (i.e. er, her ). e is pronounced as i in `de` |
 | i | The letter i is always pronounced as English ee in sleep. |
-| o | To say an /o/, round your lips like when you whistle and pull your tongue as far back as you can. This is the same sound as represented by the letter u in many languages, like Spanish, Italian and Slavic languages. The letter o is usually pronounced `/o/` in Norwegian, but sometimes it is pronounced like `/å/` (for example komme, over). |
-| u | To pronounce the letter u, round your lips like when you whistle and say an `/i/` with your lips rounded. You can practise this with the English word sleep. If you say this with the lips rounded, the ee will the be replaced by a perfect `/u/`! The written letter u in Norwegian is usually pronounced like this, but sometimes it is pronounced `/o/` (for example ung, dum). |
+| o | `/o/` round your lips like when you whistle and pull your tongue as far back as you can. sometimes pronounced like `/å/` (for example komme, over). |
+| u | round your lips like when you whistle and say an `/i/` with your lips rounded. You can practise this with the English word sleep. If you say this with the lips rounded, the ee will the be replaced by a perfect `/u/`sometimes pronounced `/o/` (ie ung, dum) |
 
