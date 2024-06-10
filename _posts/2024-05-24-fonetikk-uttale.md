@@ -47,5 +47,5 @@ Norwegian has nine vowels: a, e, i, o, u, y, æ, ø and å. [credit/ref](https:/
 | e | like in the English words send and very. <br> sometime like the letter æ. (i.e. er, her ). <br> e is pronounced as i in `de` |
 | i | The letter i is always pronounced as English ee in sleep. |
 | o | `/o/` round your lips like when you whistle and pull your tongue as far back as you can. <br> sometimes pronounced like `/å/` (for example komme, over). |
-| u | round your lips like when you whistle and say an `/i/` with your lips rounded. You can practise this with the English word sleep. If you say this with the lips rounded, the ee will the be replaced by a perfect `/u/`sometimes pronounced `/o/` (ie ung, dum) |
+| u | round your lips like when you whistle and say an `/i/` with your lips rounded. <br> You can practise this with the English word sleep. <br> If you say this with the lips rounded, the ee will the be replaced by a perfect `/u/`<br> sometimes pronounced `/o/` (ie ung, dum) |
 
