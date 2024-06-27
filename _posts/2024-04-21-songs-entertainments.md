@@ -11,7 +11,7 @@ mermaid: true
 {: .prompt-tip }
 
 Norsk online Matarial  
-[På gang](https://paagang.com/) *Intermediate Grammer* 
+[På gang](https://paagang.com/) *Intermediate Grammer*   
 [Norwegian for Smarties](/assets/Norwegian-for-smarties.pdf) *Grammer from Lenoo free class*  
 [Med tusen ord](https://mto.portfolio.no/) *online exercise*  
 [Interactive grammer exercise](https://tekstlab.uio.no/igin/bm/) *online exercise*    
