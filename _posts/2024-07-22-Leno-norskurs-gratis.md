@@ -13,7 +13,7 @@ mermaid: true
 |---|---|---|
 | Hva heter du ? | Jeg heter Vikas Pandey | Jeg heter ikke Siv |
 | Hvor kommer du fra ? | Jeg kommer fra India, fra New Delhi  | Jeg hommer ikke fra Stavanger |
-| Hvor kommer du fra ? | Jeg kommer fra India, fra New Delhi  | Jeg hommer ikke fra Stavanger |
-| Hvor bor du ? | Jeg bor i  | Jeg hommer ikke fra Stavanger |
+| Hvor bor du ? | Jeg bor i Norge, i Oslo, på Lambertseter | Jeg bor ikke i Stavanger |
+| Hvilket språk snakker du ? | Jeg snakker Engelske og Indisk og litt norsk | Jeg snakker ikke spansk |
 
 
