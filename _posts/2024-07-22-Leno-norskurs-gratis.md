@@ -8,3 +8,10 @@ mermaid: true
 ---
 
 #### Notes day 1
+
+| Spørsmål  | svar | Negasjon |
+|---|---|---|
+| Hva heter du ? | Jeg heter Vikas Pandey | Jeg heter ikke Siv |
+| Hvor kommer du fra ? | Jeg kommer fra India, fra New Delhi  | Jeg hommer ikke fra Stavanger |
+
+
