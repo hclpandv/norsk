@@ -16,4 +16,6 @@ mermaid: true
 | Hvor bor du ? | Jeg bor i Norge, i Oslo, på Lambertseter | Jeg bor ikke i Stavanger |
 | Hvilket språk snakker du ? | Jeg snakker Engelske og Indisk og litt norsk | Jeg snakker ikke spansk |
 
+* Homework : Mindmap of learnings -> presentasjon text -> Video of same and post all on FB group
+
 
