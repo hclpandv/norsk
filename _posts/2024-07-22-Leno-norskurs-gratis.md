@@ -18,4 +18,12 @@ mermaid: true
 
 * Homework : Mindmap of learnings -> presentasjon text -> Video of same and post all on FB group
 
+MindMap :
+
+![image](https://github.com/user-attachments/assets/3ebb83be-a30d-4a19-9992-b87d89dd9733)
+
+
+
+presentasjon text:
+
 
