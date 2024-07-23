@@ -7,7 +7,7 @@ tags: [Norsk, Language]
 mermaid: true
 ---
 
-#### Notes day 1
+## Notes day 1
 
 | Spørsmål  | svar | Negasjon |
 |---|---|---|
@@ -25,5 +25,20 @@ MindMap :
 
 
 presentasjon text:
+
+```
+Hei Hei !! alle sammen..
+Jeg heter Vikas.
+Jeg kommer fra India, fra New Delhi.
+Jeg kommer ikke fra Italia.
+
+
+```
+
+> Hei Hei !! alle sammen..
+> Jeg heter Vikas.
+> Jeg kommer fra India, fra New Delhi.
+> Jeg kommer ikke fra Italia.
+{: .prompt-tip }
 
 
