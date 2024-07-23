@@ -37,5 +37,8 @@ Jeg snakker indisk, engelske og litt norsk.
 Jeg elsker sommer i oslo.
 Ha det bra..
 ```
+Video: 
+
+{% include embed/youtube.html id='I0B_kcsf3QI?si=lfcILIOB' %}  
 
 
