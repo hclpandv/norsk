@@ -34,6 +34,7 @@ Jeg kommer ikke fra Italia.
 
 Jeg bor i Norge, i Oslo, på Lambertseter.
 Jeg snakker indisk, engelske og litt norsk.
+Jeg elsker sommer i oslo.
 Ha det bra..
 ```
 
