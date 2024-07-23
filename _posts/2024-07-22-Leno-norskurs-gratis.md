@@ -28,17 +28,13 @@ presentasjon text:
 
 ```
 Hei Hei !! alle sammen..
-Jeg heter Vikas.
+Jeg heter Vikas. Jeg heter ikke Olav.
 Jeg kommer fra India, fra New Delhi.
 Jeg kommer ikke fra Italia.
 
-
+Jeg bor i Norge, i Oslo, på Lambertseter.
+Jeg snakker indisk, engelske og litt norsk.
+Ha det bra..
 ```
-
-> Hei Hei !! alle sammen..
-> Jeg heter Vikas.
-> Jeg kommer fra India, fra New Delhi.
-> Jeg kommer ikke fra Italia.
-{: .prompt-tip }
 
 
