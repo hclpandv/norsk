@@ -47,6 +47,23 @@ MindMap:
 
 ![image](https://github.com/user-attachments/assets/18230f06-1685-4289-8222-5d51cffd7020)
 
+En dialog text:
+
+```
+Vikas: Hei hei!! hva heter du ? 
+Ashish: Hei!! jeg heter Ashish og du ?
+
+Vikas: Jeg heter Vikas, hyggelig å måte deg. du bor i oslo nå, ikke sant ?
+Ashish: Ja, jeg bor i Oslo nå, på Lørenskog.
+
+Vikas: hvor jobber du ?
+Ahsih: Jeg jobber på Lysakar.
+
+Vikas: ah! jeg jobber på Lysakar også :) spiser du lunsj på Kantinen ?
+Ashish: Ja, jeg spiser 
+
+```
+
 
 
 
