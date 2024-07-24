@@ -76,7 +76,11 @@ Video:
 
 setningsstruktur:
 
-Adverbial : when and where the event is happening..
+Adverbial : when and where the event is happening.
+
+Bindeord: konjuksjoner
+
+og, men, eller
 
 
 
