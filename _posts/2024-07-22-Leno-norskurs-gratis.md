@@ -99,6 +99,11 @@ Nå bor jeg ikke i Malaysia.
 I dag spiser ikke jeg pasta
 ```
 
+Hva gjør du en vanlig oke ?
+
+På mandag jobber jeg, og jeg studer norsk 
+På tirsdag lager jeg mat og måter venner
+På onsdag spiller jeg football.
 
 
 
