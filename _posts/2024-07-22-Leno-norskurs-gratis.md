@@ -82,10 +82,18 @@ Bindeord: konjuksjoner
 
 og, men, eller
 
+```
+Jeg bor i norge og jeg studere norsk
+Jeg spiser vegatar mat eller egg.
+Jeg liker sommer men jeg liker ikke regn
+```
 
 
-
-
+```
+Jeg lager mat i dag
+Nå lager jeg mat 
+I dag går jeg på skole
+```
 
 
 
