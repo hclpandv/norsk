@@ -7,7 +7,7 @@ tags: [Norsk, Language]
 mermaid: true
 ---
 
-## Notes day 1
+## day 1
 
 | Spørsmål  | svar | Negasjon |
 |---|---|---|
@@ -40,5 +40,9 @@ Ha det bra..
 Video: 
 
 {% include embed/youtube.html id='I0B_kcsf3QI?si=lfcILIOB' %}  
+
+## day 2
+
+
 
 
