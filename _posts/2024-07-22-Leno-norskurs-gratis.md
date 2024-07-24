@@ -57,7 +57,7 @@ Vikas: Jeg heter Vikas, hyggelig å måte deg. du bor i oslo nå, ikke sant ?
 Ashish: Ja, jeg bor i Oslo nå, på Lørenskog.
 
 Vikas: hvor jobber du ?
-Ahsih: Jeg jobber på Lysakar.
+Ashish: Jeg jobber på Lysakar.
 
 Vikas: ah! jeg jobber på Lysakar også :) spiser du lunsj på Kantinen ?
 Ashish: Ja, jeg spiser på Kantinen hver dag.
