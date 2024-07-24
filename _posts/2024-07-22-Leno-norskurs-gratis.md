@@ -94,7 +94,7 @@ Jeg lager mat i dag
 Nå lager jeg mat 
 I dag går jeg på skole
 
-Jeg bor i Oslo nå
+Jeg bor ikke i Malaysia nå
 Nå bor jeg ikke i Malaysia.
 I dag spiser ikke jeg pasta
 ```
