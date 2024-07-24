@@ -99,7 +99,7 @@ Nå bor jeg ikke i Malaysia.
 I dag spiser ikke jeg pasta
 ```
 
-Hva gjør du en vanlig oke ?
+Hva gjør du en vanlig uke ?
 
 ```
 På mandag jobber jeg, og jeg studer norsk 
