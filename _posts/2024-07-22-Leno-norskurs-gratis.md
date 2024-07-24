@@ -105,6 +105,7 @@ Hva gjør du en vanlig uke ?
 På mandag jobber jeg, og jeg studer norsk 
 På tirsdag lager jeg mat og måter venner
 På onsdag spiller jeg football.
+
 ```
 
 
