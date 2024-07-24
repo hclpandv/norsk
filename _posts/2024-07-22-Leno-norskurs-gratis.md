@@ -43,6 +43,10 @@ Video:
 
 ## day 2
 
+MindMap:
+
+![image](https://github.com/user-attachments/assets/18230f06-1685-4289-8222-5d51cffd7020)
+
 
 
 
