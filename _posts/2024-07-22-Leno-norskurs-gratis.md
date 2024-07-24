@@ -72,6 +72,40 @@ Video:
 {% include embed/youtube.html id='MDnVxpfTAYI?si=ZiDGNv8lOTOW1K51' %}  
 
 
+## day 3
+
+setningstructure:
+
+Adverbial : when and where the event is happening..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
