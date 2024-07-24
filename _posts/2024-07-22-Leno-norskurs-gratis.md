@@ -60,8 +60,11 @@ Vikas: hvor jobber du ?
 Ahsih: Jeg jobber på Lysakar.
 
 Vikas: ah! jeg jobber på Lysakar også :) spiser du lunsj på Kantinen ?
-Ashish: Ja, jeg spiser 
+Ashish: Ja, jeg spiser på Kantinen hver dag.
 
+Vikas: bra. du liker du pasta ?
+Ashish: Ja jeg liker pasta og pizza. liker du vin ?
+Vikas: Nei, Jeg liker ikker vin, jeg liker øl.
 ```
 
 
