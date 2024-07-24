@@ -67,6 +67,12 @@ Ashish: Ja jeg liker pasta og pizza. liker du vin ?
 Vikas: Nei, Jeg liker ikker vin, jeg liker øl.
 ```
 
+Video:
+
+{% include embed/youtube.html id='MDnVxpfTAYI?si=ZiDGNv8lOTOW1K51' %}  
+
+
+
 
 
 
