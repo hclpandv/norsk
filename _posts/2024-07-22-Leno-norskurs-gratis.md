@@ -74,7 +74,7 @@ Video:
 
 ## day 3
 
-setningstructure:
+setningsstruktur:
 
 Adverbial : when and where the event is happening..
 
