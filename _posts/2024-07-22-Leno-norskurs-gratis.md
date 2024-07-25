@@ -90,7 +90,7 @@ Jeg liker sommer men jeg liker ikke regn
 
 
 
-| setning med adverbial `(time and place) at the end   | setning starting with tid and sted |
+| setning med adverbial <br>(time and place) at the end   | setning starting with tid and sted |
 |---|---|
 | Jeg lager mat i dag | Nå lager jeg mat  |
 | Jeg går på butikken i dag | I dag går jeg på butikken |
