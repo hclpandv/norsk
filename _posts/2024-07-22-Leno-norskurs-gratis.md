@@ -89,15 +89,14 @@ Jeg liker sommer men jeg liker ikke regn
 ```
 
 
-```
-Jeg lager mat i dag
-Nå lager jeg mat 
-I dag går jeg på skole
 
-Jeg bor ikke i Malaysia nå
-Nå bor jeg ikke i Malaysia.
-I dag spiser ikke jeg pasta
-```
+| setning med adverbial `(time and place) at the end   | setning starting with tid and sted |
+|---|---|
+| Jeg lager mat i dag | Nå lager jeg mat  |
+| Jeg går på butikken i dag | I dag går jeg på butikken |
+| Jeg bor ikke i Malaysia nå | Nå bor jeg ikke i Malaysia. |
+
+
 
 Hva gjør du en vanlig uke ?
 
