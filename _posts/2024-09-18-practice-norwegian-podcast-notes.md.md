@@ -7,7 +7,7 @@ tags: [Norsk, Language]
 mermaid: true
 ---
 
-## Basic Grammar #1 (Present tense, and verb placement)
+#### Basic Grammar #1 (Present tense, and verb placement)
 
 1. V2 rule.
 2. Adverb immidiately after verb. most common adverb is `ikke` could also be `alltid` or `aldri = never`
@@ -21,5 +21,5 @@ hun spiser alltid i kantina (or kantinen)
 Jeg går aldri på trening
 ```
 
-## Basic Grammar #2 (Nouns, with Articles and Endings!)
+#### Basic Grammar #2 (Nouns, with Articles and Endings!)
 
