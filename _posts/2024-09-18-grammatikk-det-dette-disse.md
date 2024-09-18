@@ -17,8 +17,8 @@ mermaid: true
 
 2. Flertallsform (pluram form)
 
-| Hankjønn(Masculine)         | Hankjønn(Feminine)          | Intekkjønn(Neuter)       |
-|---                          |---                          |---                       |
-| Guttene (boys)              | Jentene (girls)             | epler  (apples)          |
-| Disse guttene (these boys)  | Disse Jentene (these girls) | Dette eplet (this apple) |
-| De guttene (those boys)     | De Jentene (those girls)    | Det eplet (that apple)   |
+| Hankjønn(Masculine)         | Hankjønn(Feminine)          | Intekkjønn(Neuter)          |
+|---                          |---                          |---                          |
+| Guttene (boys)              | Jentene (girls)             | Eplene  (apples)            |
+| Disse guttene (these boys)  | Disse Jentene (these girls) | Disse eplene (these apples) |
+| De guttene (those boys)     | De Jentene (those girls)    | De eplene (those apples)    |
