@@ -10,7 +10,7 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-Substantive er navn på personer og ting
+*Substantive er navn på personer, ting og steder*
 
 ### Substantive - entall (singular)  
 Substantivet har tre kjønn.  
