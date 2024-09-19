@@ -10,15 +10,25 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-*Substantive er navn på personer, ting og steder*
+### 1. Substantive
 
-### Substantive - entall (singular)  
+**Substantive er navn på personer, ting og steder** (person, place or thing)
+
+Eksempler:  
+
+* **Lisa** har kjøpt **bil** (personer, ting)  
+* **Bergen** er en fin **by** (steder)
+* 
+
+
+
+**entall (singular)**  
 Substantivet har tre kjønn.  
 Hankjønn, Hunkjønn og Intetkjønn
 
 En Mann, Ei Dame,Ei Skive, Et Eple, Et Glass  
 
-### Substantive - flertall (plural)  
+**flertall (plural)**
 en kopp.. to kopper.. tre kopper    
   
 korte intetkjønnsord får ikke -er   
