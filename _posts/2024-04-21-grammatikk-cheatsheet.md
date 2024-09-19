@@ -57,4 +57,4 @@ et egg.. mange egg
 
 ### 3. Verb
 
-### 4. adverb
+### 4. Adverb
