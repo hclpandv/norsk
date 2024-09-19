@@ -18,21 +18,20 @@ Eksempler:
 
 * **Lisa** har kjøpt **bil** (personer, ting)  
 * **Bergen** er en fin **by** (steder)
-* 
 
+**Substantivet har tre kjønn:**  
 
+Hankjønn, Hunkjønn og Intetkjønn
 
 **entall (singular)**  
-Substantivet har tre kjønn.  
-Hankjønn, Hunkjønn og Intetkjønn
 
 En Mann, Ei Dame,Ei Skive, Et Eple, Et Glass  
 
 **flertall (plural)**
+
 en kopp.. to kopper.. tre kopper    
   
 korte intetkjønnsord får ikke -er   
 et egg.. mange egg  
-
 
 {% include embed/youtube.html id='y_Iph3TfF_E?si=TWGagm2CGfQiE7ip' %}
