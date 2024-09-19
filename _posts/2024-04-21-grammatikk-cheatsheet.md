@@ -1,5 +1,5 @@
 ---
-title: Substantive
+title: Grammatikk Cheatsheet
 author: hclpandv
 date: 2024-04-21 11:33:00 +0800
 categories: [Norsk, grammatikk]
@@ -12,13 +12,13 @@ mermaid: true
 
 Substantive er navn på personer og ting
 
-#### Substantive - entall (singular)  
+### Substantive - entall (singular)  
 Substantivet har tre kjønn.  
 Hankjønn, Hunkjønn og Intetkjønn
 
 En Mann, Ei Dame,Ei Skive, Et Eple, Et Glass  
 
-#### Substantive - flertall (plural)  
+### Substantive - flertall (plural)  
 en kopp.. to kopper.. tre kopper    
   
 korte intetkjønnsord får ikke -er   
