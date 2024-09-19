@@ -35,3 +35,9 @@ korte intetkjønnsord får ikke -er
 et egg.. mange egg  
 
 {% include embed/youtube.html id='y_Iph3TfF_E?si=TWGagm2CGfQiE7ip' %}
+
+### 2. Pronomen
+
+### 3. Verb
+
+### 4. adverb
