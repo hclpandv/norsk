@@ -65,7 +65,7 @@ Hesten løper raskt
 
 >raskt er adverb som beskriver hvordan hesten løper
 
-**4 typer adverb**
+**fire `four` typer adverb**
 
 1. **Omstendighetsadverb** Beskriver omstendighetene rundt en handling `Circumstances around an action`
 
