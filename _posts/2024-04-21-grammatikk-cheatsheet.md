@@ -80,27 +80,27 @@ Hesten løper raskt
 >Omstendighetsadverb beskriver omstendighetene rundt en handling. `Circumstances around an action`
 
 
-| **Type**         | **Eksempel**                         | **Oversettelse**                           | **Andre Eksempler**                     | **Oversettelse**                  |
-|------------------|--------------------------------------|--------------------------------------------|-----------------------------------------|------------------------------------|
-| **Tidsadverb**   | *Jeg spiser nå*                      | (*I am eating now*)                       | snart                                  | (soon)                             |
-|                  | *Jeg spiser pasta ofte*              | (*I eat pasta often*)                     | tidlig                                 | (early)                            |
-|                  |                                      |                                            | sjelden                                | (rarely)                           |
-|                  |                                      |                                            | daglig                                 | (daily)                            |
-|                  |                                      |                                            | ukentlig                               | (weekly)                           |
-|                  |                                      |                                            | månedlig                               | (monthly)                          |
-|                  |                                      |                                            | årlig                                  | (yearly)                           |
-| **Stedsadverb**  | *Boken er der*                       | (*The book is there*)                     | ute                                   | (outside)                          |
-|                  | *Vi møtes her*                       | (*We meet here*)                          | inne                                  | (inside)                           |
-|                  |                                      |                                            | oppe                                  | (upstairs)                         |
-|                  |                                      |                                            | nede                                  | (downstairs)                       |
-|                  |                                      |                                            | vekk                                  | (away)                             |
-|                  |                                      |                                            | hjem                                  | (home)                             |
-|                  |                                      |                                            | overalt                               | (everywhere)                       |
-| **Måtesadverb**  | *Han kjører sakte*                   | (*He drives slowly*)                       | raskt                                 | (quickly)                          |
-|                  | *Hun synger vakkert*                 | (*She sings beautifully*)                 | høyt                                  | (loudly)                           |
-|                  |                                      |                                            | godt                                  | (well)                             |
-|                  |                                      |                                            | dårlig                                | (badly)                            |
-|                  |                                      |                                            | fint                                  | (nicely)                           |
+| **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                  |
+|------------------------------------------|-----------------------------------|----------------------------------|
+| ```Jeg spiser nå```                      | ```Boken er der```                | ```Han kjører sakte```           |
+| (*I am eating now*)                     | (*The book is there*)            | (*He drives slowly*)             |
+| ```Jeg spiser pasta ofte```              | ```Vi møtes her```                | ```Hun synger vakkert```         |
+| (*I eat pasta often*)                   | (*We meet here*)                 | (*She sings beautifully*)        |
+| ```snart```                              | ```ute```                         | ```raskt```                      |
+| (soon)                                   | (outside)                        | (quickly)                        |
+| ```tidlig```                             | ```inne```                        | ```høyt```                       |
+| (early)                                  | (inside)                         | (loudly)                         |
+| ```sjelden```                            | ```oppe```                        | ```godt```                       |
+| (rarely)                                 | (upstairs)                       | (well)                           |
+| ```daglig```                             | ```nede```                        | ```dårlig```                     |
+| (daily)                                  | (downstairs)                     | (badly)                          |
+| ```ukentlig```                           | ```vekk```                        | ```fint```                       |
+| (weekly)                                 | (away)                           | (nicely)                         |
+| ```månedlig```                           | ```hjem```                        |                                  |
+| (monthly)                                | (home)                           |                                  |
+| ```årlig```                              | ```overalt```                    |                                  |
+| (yearly)                                 | (everywhere)                     |                                  |
+
 
 >Setningsadverb beskriver hele setningen eller forteller noe om talerens holdning. `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
 
