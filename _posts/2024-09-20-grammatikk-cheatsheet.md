@@ -87,24 +87,45 @@ further classification:
 
 **2. Setningsadverb** Beskriver hele setningen eller talerens holdning `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
 
-Hun er dessverre syk
-Han kom ikke hjem i går
-
-others: kanskje, aldri, neppe, faktisk, sannsynligvis
-
-**3. Gradsadverb** disse adverbene forteller oss noe om graden av noe
-
-Han er vendig snill
-Hun er ganske trøtt
-
-others: mye, litt, nesten, fullstendig, noksa, enda, andeles
-
-**4. Fokusadverb**  disse adverbene fokuserer på en del av setningen
+| **Setningsadverb** `Phrasal adverbs`     |                                   |
+|------------------------------------------|-----------------------------------|
+| Hun er dessverre syk                     | Unfortunately, she is ill         |
+| Han kom ikke hjem i går                  | He didn't come home yesterday     |
+| **Other examples**                       |                                   |
+| kanskje                                  | maybe                             |
+| aldri                                    | never                             |
+| neppe                                    | hardly                            |
+| faktisk                                  | actually                          |
+| sannsynligvis                            | probably                          |
 
 
-Bare han kom
-hun er ogso med
+**3. Gradsadverb** disse adverbene forteller oss noe om graden av noe `degree or grade of something`
 
+| **Gradsadverb**                          |                                   |
+|------------------------------------------|-----------------------------------|
+| Han er vendig snill                      | He is very kind                   |
+| Hun er ganske trøtt                      | She is quite tired                |
+| **Other examples**                       |                                   |
+| mye                                      | a lot                             |
+| litt                                     | a little                          |
+| nesten                                   | almost                            |
+| fullstendig                              | completely                        |
+| noksa                                    |                           |
+| enda                                     |                           |
+| andeles                                  |                           |
+
+
+**4. Fokusadverb**  disse adverbene fokuserer på en del av setningen `focus on a part of whole sentence`
+
+| **Fokusadverb**                          |                                   |
+|------------------------------------------|-----------------------------------|
+| Bare han kom                             | Only he came                      |
+| hun er ogso med                          | She is also in                    |
+| **Other examples**                       |                                   |
+| også                                     | also                              |
+| og                                       | and                               |
+| heller                                   | a lot                             |
+| heller                                   | a lot                             |
 others: også, og, heller, bare
 
 
