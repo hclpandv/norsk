@@ -65,19 +65,9 @@ Hesten løper raskt
 
 >raskt er adverb som beskriver hvordan hesten løper
 
-### Typer av adverb (4 typer adverb)
+**4 typer adverb**
 
-| **Type**                | **Beskrivelse**                                            | **Eksempeler**                               |
-|-------------------------|------------------------------------------------------------|--------------------------------------------|
-| Omstendighetsadverb     | Beskriver omstendighetene rundt en handling                | *Jeg spiser nå* `I am eating now`          |
-|                         | `Circumstances around an action`                           |                                            |
-| Setningsadverb          | Beskriver hele setningen eller talerens holdning           | *Hun er dessverre syk* `She is sick`       |
-|                         | `describes the sentence or about the attitude`             |                                            |
-| Gradsadverb             | Forteller oss noe om graden av noe                         | *Han er veldig snill* `He is very kind`    |
-| Fokusadverb             | Fokuserer på en del av setningen                           | *Bare han kom* `Only he came`              |
-
-
-**Omstendighetsadverb**
+1. **Omstendighetsadverb** Beskriver omstendighetene rundt en handling `Circumstances around an action` 
 
 | **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                     |
 |------------------------------------------|-----------------------------------|-------------------------------------|
@@ -92,9 +82,7 @@ Hesten løper raskt
 | månedlig `monthly`                      | hjem `home`                       |                                     |
 | årlig `yearly`                         | overalt `everywhere`             |                                     |
 
-**Setningsadverb**
-
->Setningsadverb beskriver hele setningen eller forteller noe om talerens holdning. `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
+2. **Setningsadverb** Beskriver hele setningen eller talerens holdning `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
 
 Hun er dessverre syk
 Han kom ikke hjem i går
