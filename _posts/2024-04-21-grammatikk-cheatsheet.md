@@ -92,6 +92,24 @@ others: raskt, høytt, godt, dårlig, fint
 
 >Setningsadverb beskriver hele setningen eller forteller noe om talerens holdning. `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
 
+Hun er dessverre syk
+Han kom ikke hjem i går
+
+others: kanskje, aldri, neppe, faktisk, sannsynligvis
+
+>Gradsadverb: disse adverbene forteller oss noe om graden av noe
+
+Han er vendig snill
+Hun er ganske trøtt
+
+others: mye, litt, nesten, fullstendig, noksa, enda, andeles
+
+>Fokusadverb: disse adverbene fokuserer på en del av setningen
+
+Bare han kom
+hun er ogso med
+
+others: også, og, heller, bare
 
 
 
