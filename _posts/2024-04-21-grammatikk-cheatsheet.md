@@ -58,3 +58,42 @@ et egg.. mange egg
 ### 3. Verb
 
 ### 4. Adverb
+
+**Adverb beskriver verb, adjective eller andre adverb** (describes verb, adjective or other adverb)  
+
+Hesten løper raskt 
+
+>raskt er adverb som beskriver hvordan hesten løper
+
+**4 typer adverb : Omstendighetsadverb, Setningsadverb, Gradsadverb og Fokusadverb.**
+
+>Omstendighetsadverb beskriver omstendighetene rundt en handling. `Circumstances around an action`
+
+Tidsadverb (Når handling skjer):
+
+Jeg spiser nå
+Jeg spiser pasta ofte
+
+others : snart, tidlig, sjelden, daglig, ukentlig, månedlig, årlig
+
+Stedsadverb (Hvor handling skjer):
+
+Boken er der
+Vi motes her
+
+others: ute, inne, oppe, nede, vekk, hjem, overalt
+
+Måtesadverb (Hvordan handlingen skjer, på hvilken måte):
+
+Han kjører sakte
+Hun synger vakkert
+
+others: raskt, høytt, godt, dårlig, fint
+
+>Setningsadverb beskriver hele setningen eller forteller noe om talerens holdning. `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
+
+
+
+
+
+
