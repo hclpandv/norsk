@@ -67,7 +67,9 @@ Hesten løper raskt
 
 **4 typer adverb**
 
-1. **Omstendighetsadverb** Beskriver omstendighetene rundt en handling `Circumstances around an action` 
+1. **Omstendighetsadverb** Beskriver omstendighetene rundt en handling `Circumstances around an action`
+
+further classification: 
 
 | **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                     |
 |------------------------------------------|-----------------------------------|-------------------------------------|
@@ -89,18 +91,15 @@ Han kom ikke hjem i går
 
 others: kanskje, aldri, neppe, faktisk, sannsynligvis
 
-**Gradsadverb**  
-
->Gradsadverb: disse adverbene forteller oss noe om graden av noe
+3. **Gradsadverb** disse adverbene forteller oss noe om graden av noe
 
 Han er vendig snill
 Hun er ganske trøtt
 
 others: mye, litt, nesten, fullstendig, noksa, enda, andeles
 
-**Fokusadverb**
+4. **Fokusadverb**  disse adverbene fokuserer på en del av setningen
 
->Fokusadverb: disse adverbene fokuserer på en del av setningen
 
 Bare han kom
 hun er ogso med
