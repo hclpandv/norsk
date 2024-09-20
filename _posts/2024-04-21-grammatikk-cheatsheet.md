@@ -65,30 +65,43 @@ Hesten løper raskt
 
 >raskt er adverb som beskriver hvordan hesten løper
 
+### Typer av adverb (4 typer adverb)
+
+| **Type**                | **Beskrivelse**                                            | **Eksempel**                                 |
+|-------------------------|------------------------------------------------------------|----------------------------------------------|
+| Omstendighetsadverb     | Beskriver omstendighetene rundt en handling                | *Jeg spiser nå* (*I am eating now*)          |
+| Setningsadverb          | Beskriver hele setningen eller talerens holdning           | *Hun er dessverre syk* (*She is sick*)       |
+| Gradsadverb             | Forteller oss noe om graden av noe                         | *Han er veldig snill* (*He is very kind*)    |
+| Fokusadverb             | Fokuserer på en del av setningen                           | *Bare han kom* (*Only he came*)              |
+
+
 **4 typer adverb : Omstendighetsadverb, Setningsadverb, Gradsadverb og Fokusadverb.**
 
 >Omstendighetsadverb beskriver omstendighetene rundt en handling. `Circumstances around an action`
 
-Tidsadverb (Når handling skjer):
+### Adverb (Adverb)
 
-Jeg spiser nå
-Jeg spiser pasta ofte
-
-others : snart, tidlig, sjelden, daglig, ukentlig, månedlig, årlig
-
-Stedsadverb (Hvor handling skjer):
-
-Boken er der
-Vi motes her
-
-others: ute, inne, oppe, nede, vekk, hjem, overalt
-
-Måtesadverb (Hvordan handlingen skjer, på hvilken måte):
-
-Han kjører sakte
-Hun synger vakkert
-
-others: raskt, høytt, godt, dårlig, fint
+| **Type**         | **Eksempel**                         | **Oversettelse**                           | **Andre Eksempler**                     | **Oversettelse**                  |
+|------------------|--------------------------------------|--------------------------------------------|-----------------------------------------|------------------------------------|
+| **Tidsadverb**   | *Jeg spiser nå*                      | (*I am eating now*)                       | snart                                  | (soon)                             |
+|                  | *Jeg spiser pasta ofte*              | (*I eat pasta often*)                     | tidlig                                 | (early)                            |
+|                  |                                      |                                            | sjelden                                | (rarely)                           |
+|                  |                                      |                                            | daglig                                 | (daily)                            |
+|                  |                                      |                                            | ukentlig                               | (weekly)                           |
+|                  |                                      |                                            | månedlig                               | (monthly)                          |
+|                  |                                      |                                            | årlig                                  | (yearly)                           |
+| **Stedsadverb**  | *Boken er der*                       | (*The book is there*)                     | ute                                   | (outside)                          |
+|                  | *Vi møtes her*                       | (*We meet here*)                          | inne                                  | (inside)                           |
+|                  |                                      |                                            | oppe                                  | (upstairs)                         |
+|                  |                                      |                                            | nede                                  | (downstairs)                       |
+|                  |                                      |                                            | vekk                                  | (away)                             |
+|                  |                                      |                                            | hjem                                  | (home)                             |
+|                  |                                      |                                            | overalt                               | (everywhere)                       |
+| **Måtesadverb**  | *Han kjører sakte*                   | (*He drives slowly*)                       | raskt                                 | (quickly)                          |
+|                  | *Hun synger vakkert*                 | (*She sings beautifully*)                 | høyt                                  | (loudly)                           |
+|                  |                                      |                                            | godt                                  | (well)                             |
+|                  |                                      |                                            | dårlig                                | (badly)                            |
+|                  |                                      |                                            | fint                                  | (nicely)                           |
 
 >Setningsadverb beskriver hele setningen eller forteller noe om talerens holdning. `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
 
