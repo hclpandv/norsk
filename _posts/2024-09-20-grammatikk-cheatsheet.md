@@ -71,7 +71,7 @@ Hesten løper raskt
 
 further classification: 
 
-| **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                            |
+| **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb** `manner`                   |
 |------------------------------------------|-----------------------------------|--------------------------------------------|
 | **Når** `when`                           | **Hvor** `where`                  | **Hvordan** `How`                          |
 | Jeg spiser nå `I am eating now`          | Boken er der `The book is there`  | Han kjører sakte `He drives slowly`        |
