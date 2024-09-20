@@ -67,38 +67,39 @@ Hesten løper raskt
 
 **fire `four` typer adverb**
 
-1. **Omstendighetsadverb** Beskriver omstendighetene rundt en handling `Circumstances around an action`
+**1. Omstendighetsadverb** Beskriver omstendighetene rundt en handling `Circumstances around an action`
 
 further classification: 
 
-| **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                     |
-|------------------------------------------|-----------------------------------|-------------------------------------|
-| **Når** `when`                           | **Hvor** `where`                  | **Hvordan** `How`                   |
-| Jeg spiser nå `I am eating now`         | Boken er der `The book is there`  | Han kjører sakte `He drives slowly` |
-| Jeg spiser pasta ofte `I eat pasta often` | Vi møtes her `We meet here`       | Hun synger vakkert `She sings beautifully` |
-| snart `soon`                             | ute `outside`                     | raskt `quickly`                     |
-| tidlig `early`                          | inne `inside`                     | høyt `loudly`                       |
-| sjelden `rarely`                        | oppe `upstairs`                   | godt `well`                         |
-| daglig `daily`                          | nede `downstairs`                 | dårlig `badly`                      |
-| ukentlig `weekly`                       | vekk `away`                       | fint `nicely`                       |
-| månedlig `monthly`                      | hjem `home`                       |                                     |
-| årlig `yearly`                         | overalt `everywhere`             |                                     |
+| **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                            |
+|------------------------------------------|-----------------------------------|--------------------------------------------|
+| **Når** `when`                           | **Hvor** `where`                  | **Hvordan** `How`                          |
+| Jeg spiser nå `I am eating now`          | Boken er der `The book is there`  | Han kjører sakte `He drives slowly`        |
+| Jeg spiser pasta ofte `I eat pasta often`| Vi møtes her `We meet here`       | Hun synger vakkert `She sings beautifully` |
+| **Other examples**                       |                                   |                                            |
+| snart `soon`                             | ute `outside`                     | raskt `quickly`                            |
+| tidlig `early`                           | inne `inside`                     | høyt `loudly`                              |
+| sjelden `rarely`                         | oppe `upstairs`                   | godt `well`                                |
+| daglig `daily`                           | nede `downstairs`                 | dårlig `badly`                             |
+| ukentlig `weekly`                        | vekk `away`                       | fint `nicely`                              |
+| månedlig `monthly`                       | hjem `home`                       |                                            |
+| årlig `yearly`                           | overalt `everywhere`              |                                            |
 
-2. **Setningsadverb** Beskriver hele setningen eller talerens holdning `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
+**2. Setningsadverb** Beskriver hele setningen eller talerens holdning `Phrasal adverbs describes the whole sentence or tell something about the speaker's attitude.`
 
 Hun er dessverre syk
 Han kom ikke hjem i går
 
 others: kanskje, aldri, neppe, faktisk, sannsynligvis
 
-3. **Gradsadverb** disse adverbene forteller oss noe om graden av noe
+**3. Gradsadverb** disse adverbene forteller oss noe om graden av noe
 
 Han er vendig snill
 Hun er ganske trøtt
 
 others: mye, litt, nesten, fullstendig, noksa, enda, andeles
 
-4. **Fokusadverb**  disse adverbene fokuserer på en del av setningen
+**4. Fokusadverb**  disse adverbene fokuserer på en del av setningen
 
 
 Bare han kom
