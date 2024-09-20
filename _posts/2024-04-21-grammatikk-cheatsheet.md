@@ -80,6 +80,7 @@ Hesten løper raskt
 **Omstendighetsadverb**
 
 | **Tidsadverb**                           | **Stedsadverb**                   | **Måtesadverb**                     |
+| **Når** `when`                           | **Hvor** `where`                  | **Hvordan** `How`                   |
 |------------------------------------------|-----------------------------------|-------------------------------------|
 | Jeg spiser nå `I am eating now`         | Boken er der `The book is there`  | Han kjører sakte `He drives slowly` |
 | Jeg spiser pasta ofte `I eat pasta often` | Vi møtes her `We meet here`       | Hun synger vakkert `She sings beautifully` |
