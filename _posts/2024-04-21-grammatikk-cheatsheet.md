@@ -79,7 +79,6 @@ Hesten løper raskt
 
 >Omstendighetsadverb beskriver omstendighetene rundt en handling. `Circumstances around an action`
 
-### Adverb (Adverb)
 
 | **Type**         | **Eksempel**                         | **Oversettelse**                           | **Andre Eksempler**                     | **Oversettelse**                  |
 |------------------|--------------------------------------|--------------------------------------------|-----------------------------------------|------------------------------------|
