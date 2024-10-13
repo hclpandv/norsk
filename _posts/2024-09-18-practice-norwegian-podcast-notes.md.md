@@ -11,6 +11,7 @@ mermaid: true
 
 1. V2 rule.
 2. Adverb immidiately after verb. most common adverb is `ikke` could also be `alltid` or `aldri = never`
+3. something to test
 
 exsempler:
 
