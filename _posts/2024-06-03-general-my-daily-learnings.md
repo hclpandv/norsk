@@ -10,15 +10,16 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-Ordklasser
-**Substantiv** er navn pa personer, ting og fenomener: en mann, ei kake, et vindu, en tanke.
+## Ordklasser
 
-**Pronomen** er ord som st ả r i stedet for substantiv: han, hun, det, den, de, man.  
+1. **Substantiv** er navn pa personer, ting og fenomener: en mann, ei kake, et vindu, en tanke.
+
+2. **Pronomen** er ord som st ả r i stedet for substantiv: han, hun, det, den, de, man.  
 Sporrepronomen: hvem, hva, hvilken.
 
-**Adjektiv** beskriver andre ord: gronn, glad, gammel, pen. Ogsá ordenstallene er adjektiv: femte, syttende.
+3. **Adjektiv** beskriver andre ord: gronn, glad, gammel, pen. Ogsá ordenstallene er adjektiv: femte, syttende.
 
-**Determinativer** er ord som stär som bestemmelser til andre ord og inkluderer:
+4. **Determinativer** er ord som stär som bestemmelser til andre ord og inkluderer:
 Demonstrativer: det, den, de, denne, dette, disse
 Possessiver: min, ditt, hennes, värt, deres
 Kvantorer som inkluderer
@@ -26,18 +27,18 @@ Kvantorer som inkluderer
 • grunntallene: fem, ti, tolv
 • andre mengdeord som: mange, begge, alle, ingen
 
-**Verb** forteller om handlinger og tilstander: gà, leke, lese, bygge, bo.
+5. **Verb** forteller om handlinger og tilstander: gà, leke, lese, bygge, bo.
 
-**Adverb** forteller mer om handlinger og tilstander: nä, tidlig, opp, ut, dessverre.
+6. **Adverb** forteller mer om handlinger og tilstander: nä, tidlig, opp, ut, dessverre.
 Sporreadverb: nar, hvorfor, hvordan.
 
-**Preposisjoner** danner sammen med et etterfolgende substantiv eller pronomen  
+7. **Preposisjoner** danner sammen med et etterfolgende substantiv eller pronomen  
 preposisjonsfraser: i byen, til deg, om sommeren, enn lœreren, som dem.  
 Som og enn regnes som preposisjoner n ả r de stär foran substantiv eller pronomen.
 (Se ogsà subjunksjoner under.)
 
-**Konjunksjoner** binder sammen ord og setninger: og, men, for, sả.
+8. **Konjunksjoner** binder sammen ord og setninger: og, men, for, sả.
 
-**Subjunksjoner** innleder leddsetninger: fordi, da, etter at, mens, hvis.
+9. **Subjunksjoner** innleder leddsetninger: fordi, da, etter at, mens, hvis.
 Ogsà som og enn er subjunksjoner n ả r de innleder leddsetning.
 Infinitivsmerket a regnes som subjunksjon. (Se leddsetning under.)
