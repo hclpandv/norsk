@@ -14,11 +14,11 @@ mermaid: true
 
 1. **Substantiv** er navn pa personer, ting og fenomener: en mann, ei kake, et vindu, en tanke.
 
-|     |       |       |
-|---                      |---                      |---                       |
-| En gutt (a boy)         | Ei/En jente (a girl)    | Et eple  (an apple)      |
-| Denne gutten (this boy) | Denne Jenta (this girl) | Dette eplet (this apple) |
-| Den gutten (that boy)   | Den Jenta (that girl)   | Det eplet (that apple)   |
+| Nouns used commonly     | 
+|---                      |
+| En gutt                 |
+| En bil                  |
+| Et hus                  |
 
 
 3. **Pronomen** er ord som står i stedet for substantiv: han, hun, det, den, de, man.  
