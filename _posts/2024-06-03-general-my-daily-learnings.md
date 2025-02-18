@@ -10,11 +10,34 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
->Microlearning er en læringsmetode som innebærer å lære i små, konsentrerte doser over korte perioder, 
-som ofte tar sikte på å løse et spesifikt problem eller lære et bestemt konsept. Det er mange fordeler med microlearning
+Ordklasser
+**Substantiv** er navn pa personer, ting og fenomener: en mann, ei kake, et vindu, en tanke.
 
-`innebærer` applies on involves.   
-`bestemt` unique or defenite i.e. *Substantive i bestemt form*  
-`fordeler` benefits or advantages  
-`sikte` Aim  
-`å løse` to solve.  
+**Pronomen** er ord som st ả r i stedet for substantiv: han, hun, det, den, de, man.  
+Sporrepronomen: hvem, hva, hvilken.
+
+**Adjektiv** beskriver andre ord: gronn, glad, gammel, pen. Ogsá ordenstallene er adjektiv: femte, syttende.
+
+**Determinativer** er ord som stär som bestemmelser til andre ord og inkluderer:
+Demonstrativer: det, den, de, denne, dette, disse
+Possessiver: min, ditt, hennes, värt, deres
+Kvantorer som inkluderer
+• artikler: en, ei, et
+• grunntallene: fem, ti, tolv
+• andre mengdeord som: mange, begge, alle, ingen
+
+**Verb** forteller om handlinger og tilstander: gà, leke, lese, bygge, bo.
+
+**Adverb** forteller mer om handlinger og tilstander: nä, tidlig, opp, ut, dessverre.
+Sporreadverb: nar, hvorfor, hvordan.
+
+**Preposisjoner** danner sammen med et etterfolgende substantiv eller pronomen  
+preposisjonsfraser: i byen, til deg, om sommeren, enn lœreren, som dem.  
+Som og enn regnes som preposisjoner n ả r de stär foran substantiv eller pronomen.
+(Se ogsà subjunksjoner under.)
+
+**Konjunksjoner** binder sammen ord og setninger: og, men, for, sả.
+
+**Subjunksjoner** innleder leddsetninger: fordi, da, etter at, mens, hvis.
+Ogsà som og enn er subjunksjoner n ả r de innleder leddsetning.
+Infinitivsmerket a regnes som subjunksjon. (Se leddsetning under.)
