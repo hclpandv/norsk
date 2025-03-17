@@ -9,7 +9,7 @@ mermaid: true
 
 #### Verbs
 
-jeg **foretrekker** å lage mat hjemme (prefer)  
+Jeg **foretrekker** å lage mat hjemme (prefer)  
 Jeg **fortalte** om collegedagene mine (told)  
 
 
