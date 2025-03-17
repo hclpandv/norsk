@@ -1,8 +1,8 @@
 ---
-title: Practice norwegian podcast notes
+title: Verbs in context
 author: hclpandv
-date: 2024-07-22 11:33:00 +0800
-categories: [Norskurs]
+date: 2025-02-22 11:33:00 +0800
+categories: [Vocabulory]
 tags: [Norsk, Language]
 mermaid: true
 ---
