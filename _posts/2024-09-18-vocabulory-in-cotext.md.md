@@ -28,6 +28,9 @@ Jeg **fortalte** om collegedagene mine (told)
 | teaterstykke (play)   | Jeg skal se et teaterstykke på søndag |
 | daglig leder (manager) | Den daglige lederen tar en pause ved bordet (The manager takes a break at the desk) |
 | ingeniør   | En flink`good` ingeniør kan designe og bygge`build` systemer. |
+| sykepleier (nurse) | Kvinnen er en sykepleier |
+| kropp (body) | kropp og sjel`soul` |
+| hode (head) | Bruk hjelm`helmet` for å beskytte`to protect` hodet ditt|
 
 
 
