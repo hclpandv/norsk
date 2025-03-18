@@ -7,12 +7,6 @@ tags: [Norsk, Language]
 mermaid: true
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
-
-Jeg **foretrekker** å lage mat hjemme (prefer)  
-Jeg **fortalte** om collegedagene mine (told)  
-
 | Vocabulary   | Sample Sentence in context  |
 |    ---       |       ---                   |
 | dårlig (bad) | dårlig dag                  |
@@ -31,6 +25,12 @@ Jeg **fortalte** om collegedagene mine (told)
 | sykepleier (nurse) | Kvinnen er en sykepleier |
 | kropp (body) | kropp og sjel`soul` |
 | hode (head) | Bruk hjelm`helmet` for å beskytte`to protect` hodet ditt|
+| foretrekke (prefer) | Jeg foretrekker å lage mat hjemme|
+| fortelle (tell) | Jeg fortalte om collegedagene mine | 
+| hånd (hand) |  venstre`left` hånd | 
+| fot (foot) |  En fot har fem tær`toes`| 
+| rygg (back) |   Ryggen til pinnsvinet er dekket med spisse tagger (A hedgehog’s back is covered in sharp spikes) |
+| mage (stomach) |  Jeg har mageknip`ache`| 
 
 
 
