@@ -18,7 +18,6 @@ mermaid: true
 | sekund(second) | i ti sekunder (for ten seconds) |
 | le (laugh)   | le av et bilde |
 | deilig (delicious)   | Det ser deilig ut! (it looks delicious) |
-| te (tea)   | Kvinnen drikker te |
 | teaterstykke (play)   | Jeg skal se et teaterstykke på søndag |
 | daglig leder (manager) | Den daglige lederen tar en pause ved bordet (The manager takes a break at the desk) |
 | ingeniør   | En flink`good` ingeniør kan designe og bygge`build` systemer. |
