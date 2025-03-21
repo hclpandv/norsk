@@ -31,6 +31,10 @@ mermaid: true
 | fot (foot) |  En fot har fem tær`toes`| 
 | rygg (back) |   Ryggen til pinnsvinet er dekket med spisse tagger (A hedgehog’s back is covered in sharp spikes) |
 | mage (stomach) |  Jeg har mageknip`ache`| 
+| regning  (bill) |  Jeg betaler regningen | 
+| ta av (take off) | Kan jeg ta av jakken min? |
+| jubileum (anniversary) | Jeg glemmer alltid jubileumsdatoen min |
+| bryllup (wedding) | Jeg skal i et bryllup |
 
 
 
