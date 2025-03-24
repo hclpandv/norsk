@@ -34,6 +34,7 @@ mermaid: true
 | ta av (take off) | Kan jeg ta av jakken min? |
 | jubileum (anniversary) | Jeg glemmer alltid jubileumsdatoen min |
 | bryllup (wedding) | Jeg skal i et bryllup |
+| Nabo (Neighbor) | Det må være naboen |
 
 
 
