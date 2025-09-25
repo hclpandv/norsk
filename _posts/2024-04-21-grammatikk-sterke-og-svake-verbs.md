@@ -58,6 +58,8 @@ Sterke verb er verb som ikke får endelse i preteritum og de skifter ofte vokal.
 |---|---|---|---|
 | å være | er | var | har vart | 
 | å få `to get/recieve` | får | fikk | har fatt  | 
+
+
 | å gå `to go/walk` | gå | gikk | har gått | 
 | å dra `to go/leave` | drar | dro | har dratt  | 
 
