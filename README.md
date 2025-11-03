@@ -2,3 +2,5 @@
 
 Blog page is hosted as GH page: https://hclpandv.github.io/norsk/
 
+
+
