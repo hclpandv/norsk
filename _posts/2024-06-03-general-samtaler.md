@@ -1,16 +1,15 @@
 ---
-title: My daily learnings 
+title: Samtaler 
 author: hclpandv
 date: 2024-06-03 11:33:00 +0800
 categories: [Norsk, general]
 tags: [Norsk, Language, general]
 mermaid: true
 ---
-`å ø æ`
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-## Conversations
+## Conversations (Samtaler)
 
 > When I wake up, I always drink a glass of water. After that, I make coffee and read the news.
 If the weather is good, I go for a short walk before work. Sometimes I listen to music while I prepare breakfast.
