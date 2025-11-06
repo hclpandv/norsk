@@ -10,42 +10,12 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-## Ordklasser
+## Conversations
 
-1. **Substantiv** er navn pa personer, ting og fenomener: en mann, ei kake, et vindu, en tanke.
+> When I wake up, I always drink a glass of water. After that, I make coffee and read the news.
+If the weather is good, I go for a short walk before work. Sometimes I listen to music while I prepare breakfast.
+I enjoy mornings because they are quiet and peaceful. Even though I am often tired, mornings make me happy.
+{: .prompt-tip }
 
-| Nouns used commonly     | 
-|---                      |
-| En gutt                 |
-| En bil                  |
-| Et hus                  |
+Når jeg står opp, drikker jeg alltid et glass vann. Etterpå lager jeg kaffe og leser nyhetene. Hvis det er fint vær, går jeg en kort tur før jobben. Noen ganger lytter jeg på musikk mens jeg lager frokost. Jeg liker morgentid fordi det er stille og fredelig. Selv om jeg ofte er trøtt, gjør morgenen meg glad. <i class="fas fa-volume-up" onclick="speakText('Når jeg står opp, drikker jeg alltid et glass vann. Etterpå lager jeg kaffe og leser nyhetene. Hvis det er fint vær, går jeg en kort tur før jobben. Noen ganger lytter jeg på musikk mens jeg lager frokost. Jeg liker morgentid fordi det er stille og fredelig. Selv om jeg ofte er trøtt, gjør morgenen meg glad.')"></i>  
 
-
-3. **Pronomen** er ord som står i stedet for substantiv: han, hun, det, den, de, man.  
-Sporrepronomen: hvem, hva, hvilken.
-
-4. **Adjektiv** beskriver andre ord: gronn, glad, gammel, pen. Ogsá ordenstallene er adjektiv: femte, syttende.
-
-5. **Determinativer** er ord som står som bestemmelser til andre ord og inkluderer:
-Demonstrativer: det, den, de, denne, dette, disse
-Possessiver: min, ditt, hennes, värt, deres
-Kvantorer som inkluderer
-• artikler: en, ei, et
-• grunntallene: fem, ti, tolv
-• andre mengdeord som: mange, begge, alle, ingen
-
-6. **Verb** forteller om handlinger og tilstander: gà, leke, lese, bygge, bo.
-
-7. **Adverb** forteller mer om handlinger og tilstander: nä, tidlig, opp, ut, dessverre.
-Sporreadverb: nar, hvorfor, hvordan.
-
-8. **Preposisjoner** danner sammen med et etterfolgende substantiv eller pronomen  
-preposisjonsfraser: i byen, til deg, om sommeren, enn lœreren, som dem.  
-Som og enn regnes som preposisjoner n ả r de stär foran substantiv eller pronomen.
-(Se ogsà subjunksjoner under.)
-
-9. **Konjunksjoner** binder sammen ord og setninger: og, men, for, sả.
-
-10. **Subjunksjoner** innleder leddsetninger: fordi, da, etter at, mens, hvis.
-Ogsà som og enn er subjunksjoner n ả r de innleder leddsetning.
-Infinitivsmerket a regnes som subjunksjon. (Se leddsetning under.)
