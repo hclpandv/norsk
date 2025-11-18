@@ -54,3 +54,14 @@ Jobben har alltid vært en viktig del av livet mitt. Jeg trives med å lære nye
 
 I går møtte jeg vennen min Anna og broren hennes. Jeg hjalp henne med å bære bagen hennes fordi den var veldig tung. Broren hennes takket meg og fortalte meg om hans nye jobb. Senere så jeg to av klassekameratene mine, og jeg inviterte dem til å bli med oss på en kaffe. Jeg ga Anna en liten gave for å vise hvor mye jeg setter pris på henne. Da broren hennes spurte meg om jeg kunne hjelpe ham med en oppgave på skolen, fortalte jeg ham at jeg ville være glad for å hjelpe. <i class="fas fa-volume-up" onclick="speakText('I går møtte jeg vennen min Anna og broren hennes. Jeg hjalp henne med å bære bagen hennes fordi den var veldig tung. Broren hennes takket meg og fortalte meg om hans nye jobb. Senere så jeg to av klassekameratene mine, og jeg inviterte dem til å bli med oss på en kaffe. Jeg ga Anna en liten gave for å vise hvor mye jeg setter pris på henne. Da broren hennes spurte meg om jeg kunne hjelpe ham med en oppgave på skolen, fortalte jeg ham at jeg ville være glad for å hjelpe.')"></i> 
 
+> 1. I forgot my new keys at home this morning
+2. My little sister called me because she needed help with her homework.
+3. I finally fixed my broken computer yesterday.
+4. My favorite shoes are old now, so I need to buy new ones.
+5. I met my old friends again after many years.
+
+Jeg glemte de nye nøklene mine hjemme.  
+Min lille søster ringte meg fordi hun trengte hjelp med leksene sine.  
+Jeg fikset den ødelagte datamaskinen min endelig.  
+Mine favorittsko er gamle nå, så jeg trenger å kjøpe nye.  
+Jeg møtte mine gamle venner igjen etter mange år.  
