@@ -11,4 +11,5 @@ mermaid: true
 
 Det var en gang en keiser som var keiser i et stort land. Han hadde mange undersåtter. Han styrte over veldig mange folk. Men keiseren brukte ikke pengene han fikk inn på folk.
 Når folk betalte skatt til keiseren så brukte keiseren veldig mye penger på klær. For keiseren var veldi opptatt av klær. Han brukte all sin tid og alle pengene på fine klær. For eksempel veiene i riket var kjempedårlige på grunn av at keiseren brukte så mye penger på klær.  
-En dag kom det to vevere til keiseren. De to veverne sa at de kunne lage det mest fantastiske klærne han noen gang ville se, og at disse klærne var så fantastiske at dumme folk ikke kunne se dem. Det var bare de intelligente, smarte folkene som kunne se disse klærne. 
+En dag kom det to vevere til keiseren. De to veverne sa at de kunne lage det mest fantastiske klærne han noen gang ville se, og at disse klærne var så fantastiske at dumme folk ikke kunne se dem. Det var bare de intelligente, smarte folkene som kunne se disse klærne. Keiseren hadde aldri hørt om sånne klær, og var veldig interssert. Han sa at de kunne få et rom i slottet der de kunne jobbe med klærne. Veverne begynte å jobbe.   
+Men keiseren var litt skeptisk til klærne som ingen dumme folk kunne se. Han sendte militærministeren for å sjekke hvordan det gikk med veverne. 
