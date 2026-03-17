@@ -73,3 +73,12 @@ Jeg møtte mine gamle venner igjen etter mange år.
 
 Dette året har jeg prøvd å gjøre noen positive endringer i livet mitt. Jeg skjønte at jeg ofte var stresset fordi jeg jobbet så mye og ikke tilbrakte nok tid på ting jeg liker. Nå prøver jeg å planlegge dagene mine bedre, slik at jeg har tid til både jobb og avslapning. Jeg bestemte meg også for å bli med i en lokal idrettsklubb, hvor jeg spiller volleyball én gang i uken. Det har hjulpet meg å møte nye mennesker og holde meg aktiv. I tillegg begynte jeg å lese flere bøker om kvelden i stedet for å se på TV. Disse endringene har ikke vært lette, men jeg føler allerede at livet mitt er mer balansert, og at jeg har mer energi i løpet av dagen. <i class="fas fa-volume-up" onclick="speakText('Dette året har jeg prøvd å gjøre noen positive endringer i livet mitt. Jeg skjønte at jeg ofte var stresset fordi jeg jobbet så mye og ikke tilbrakte nok tid på ting jeg liker. Nå prøver jeg å planlegge dagene mine bedre, slik at jeg har tid til både jobb og avslapning. Jeg bestemte meg også for å bli med i en lokal idrettsklubb, hvor jeg spiller volleyball én gang i uken. Det har hjulpet meg å møte nye mennesker og holde meg aktiv. I tillegg begynte jeg å lese flere bøker om kvelden i stedet for å se på TV. Disse endringene har ikke vært lette, men jeg føler allerede at livet mitt er mer balansert, og at jeg har mer energi i løpet av dagen.')"></i> 
 
+> A2-B1 question : Er det noen de ser opp til ?
+{: .prompt-tip }
+
+Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.(Bare når det blir spurt:
+Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.)<i class="fas fa-volume-up" onclick="speakText('Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.<<Bare når det blir spurt: Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.>>')"></i> 
+
+
+
+
