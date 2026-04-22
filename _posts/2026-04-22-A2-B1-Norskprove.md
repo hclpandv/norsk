@@ -11,12 +11,10 @@ mermaid: true
 
 ## Questions asked in previous exams
 
-> Words and Phrases to include in our responses : 
-Setence connectors: Selv om (even though), På den andre siden (on the other hand), Samtidig (at the same time)  
-I tillegg (in addition), Til slutt (finally), Etter hvert (eventually / gradually), Forresten (by the way)    
-Time and Frequency: Av og til (sometimes), Et par ganger (a couple of times), Etter hvert (over time)  
-Opinions, choices & meaning: Lurer på (wondering), Rett og slett (simply / honestly), Å sette pris på (to appreciate)  
-Kommer til, Kommer an på, I stedet for, Den eneste
+> Words and Phrases to include in our responses :  
+Setence connectors: Selv om (even though), På den andre siden (on the other hand), Samtidig (at the same time), I tillegg (in addition), Til slutt (finally), Etter hvert (eventually / gradually), Forresten (by the way)      
+Time and Frequency: Av og til (sometimes), Et par ganger (a couple of times), Etter hvert (over time)   
+Opinions, choices & meaning: Lurer på (wondering), Rett og slett (simply / honestly), Å sette pris på (to appreciate), Kommer til, Kommer an på, I stedet for, Den eneste
 {: .prompt-tip }
 
 > Introduction (not really part of evaluation)
