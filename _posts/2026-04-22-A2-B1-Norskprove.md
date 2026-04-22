@@ -30,6 +30,11 @@ Jeg liker veldig godt å bo i Norge, og jeg trives godt her med familien min.Jeg
 Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.(Bare når det blir spurt:
 Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.)<i class="fas fa-volume-up" onclick="speakText('Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.<<Bare når det blir spurt: Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.>>')"></i> 
 
+> Kan du fortelle om et yrke du ønsker deg ?
+
+Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang.<i class="fas fa-volume-up" onclick="speakText('Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang')"></i> 
+
+
 
 
 
