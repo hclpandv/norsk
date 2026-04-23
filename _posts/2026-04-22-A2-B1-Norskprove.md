@@ -40,7 +40,7 @@ Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teate
 På denne dagen drar vi til sentrum, og vi ser barnetog og parade.  
 Mange i Norge kler på seg bunad, som er en tradisjonell kjole.  
 Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut.    
-Mange spiser is og pizza på denne dagen.
+Mange spiser is og pizza på denne dagen.  
 **Jeg synes 17. mai er en veldig hyggelig og spesiell dag.**
 
 > Kan du fortelle om et sport du liker?
@@ -49,7 +49,7 @@ Jeg liker cricket. Det er en sport som er veldig populær i India.
 Cricket er ikke bare en sport, men en religion i India.
 Jeg har sett på denne sporten siden jeg var barn.
 Når det er en kamp mellom India og Pakistan, er gatene i byen helt tomme.
-Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se ham spille..
+Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se ham spille..  
 **For meg cricket er ikke bare om sport, men også om følelser, fellesskap og lidenskap.**
 
 > Barna til innvandrere skal ikke snakke foreldres språk(enig eller uenig)?
