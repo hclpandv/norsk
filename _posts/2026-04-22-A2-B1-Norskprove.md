@@ -54,7 +54,15 @@ Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se
 
 > Barna til innvandrere skal ikke snakke foreldres språk(enig eller uenig)?
 
-> Hva tenker du om sensur(censorship)? 
+Jeg tenker det er viktig å snakke norsk i Norge. Fordi det hjelpe å bli dem integrert in norsk samfunne.  
+
+
+> Hva tenker du om sensur(censorship)?
+
+Jeg synes det ikke kan være sensur i et demokratisk land.    
+Sensur er ikke bra for et samfunn som tror på frihet og rettferdighet.     
+<<More Ideas>>  
+**Jeg mener at fred, frihet og rettferdighet er veldig viktige i et demokrati.**
 
 > Trenger man god utdaning til å få god jobb?
  
