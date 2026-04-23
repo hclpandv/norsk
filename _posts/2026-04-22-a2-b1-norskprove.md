@@ -38,7 +38,7 @@ Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teate
 
 `17. mai` er en av de viktigste dagene i Norge. Den kalles nasjonaldagen eller grunnlovsdagen.  
 På denne dagen drar vi til sentrum, og vi ser barnetog og parade.  
-Mange i Norge kler på seg bunad, som er en tradisjonell kjole.  
+Mange i Norge *kler på seg* bunad, som er en tradisjonell kjole.  
 Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut.    
 Mange spiser is og pizza på denne dagen.  
 **Jeg synes 17. mai er en veldig hyggelig og spesiell dag.**
