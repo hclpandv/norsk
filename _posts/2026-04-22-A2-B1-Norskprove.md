@@ -68,6 +68,11 @@ Sensur er ikke bra for et samfunn som tror på frihet og rettferdighet.
 **Jeg mener at fred, frihet og rettferdighet er veldig viktige i et demokrati.**
 
 > Trenger man god utdaning til å få god jobb?
+
+Å ja, man må ha god utdanning for å få en god jobb og et godt liv videre.  
+Utdanning handler ikke bare om læring, men også om kunnskap og ferdigheter.  
+Det er viktig fordi man kan bidra til samfunnet og utvikle seg til å bli selvstendig.   
+**Det er derfor utdanningssystemet i Norge sikrer at alle får grunnleggende kunnskap og ferdigheter.**
  
 
 
