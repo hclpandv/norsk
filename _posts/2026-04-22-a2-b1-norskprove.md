@@ -43,6 +43,10 @@ Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut.
 Mange spiser is og pizza på denne dagen.  
 **Jeg synes 17. mai er en veldig hyggelig og spesiell dag.**
 
+<i class="fas fa-volume-up"
+   onclick="speakText('17. mai er en av de viktigste dagene i Norge. Den kalles nasjonaldagen eller grunnlovsdagen. På denne dagen drar vi til sentrum, og vi ser barnetog og parade. Mange i Norge kler på seg bunad, som er en tradisjonell kjole. Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut. Mange spiser is og pizza på denne dagen. Jeg synes 17. mai er en veldig hyggelig og spesiell dag.')">
+</i>
+
 > Kan du fortelle om en sport du liker?
 
 Jeg liker cricket. Det er en sport som er veldig populær i India.
@@ -52,6 +56,10 @@ Da det var en kamp mellom India og Pakistan, var gatene i byen helt tomme.
 Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se ham spille..  
 **For meg cricket er ikke bare om sport, men også om følelser, fellesskap og lidenskap.**
 
+<i class="fas fa-volume-up"
+   onclick="speakText('Jeg liker cricket. Det er en sport som er veldig populær i India. Cricket er ikke bare en sport, men nesten en religion i India. Jeg har sett på denne sporten siden jeg var barn. Da det var en kamp mellom India og Pakistan... var gatene i byen helt tomme. Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se ham spille. For meg er cricket ikke bare om sport, men også om følelser, fellesskap og lidenskap.')">
+</i>
+
 > Barna til innvandrere skal ikke snakke foreldres språk(enig eller uenig)?
 
 Jeg er verken helt enig eller uenig her.  
@@ -59,6 +67,10 @@ Jeg tenker det er viktig at barn av innvandrere snakker norsk i Norge, fordi det
 Men jeg synes også det er viktig å tenke på at man kan uttrykke seg tydeligere og mer klart, og noen ganger er det enklere på sitt eget morsmål.  
 Det er også viktig å holde kontakt med familien som er i hjemlandet.  
 **Jeg mener at det er viktig å finne en god balanse mellom norsk og morsmål.**
+
+<i class="fas fa-volume-up"
+   onclick="speakText('Jeg er verken helt enig eller uenig her. Jeg tenker det er viktig at barn av innvandrere snakker norsk i Norge, fordi det hjelper dem på skolen og gjør at de blir bedre integrert i det norske samfunnet. Men jeg synes også det er viktig å tenke på at man kan uttrykke seg tydeligere og mer klart... og noen ganger er det enklere på sitt eget morsmål. Det er også viktig å holde kontakt med familien som er i hjemlandet. Jeg mener at det er viktig å finne en god balanse mellom norsk og morsmål.')">
+</i>
 
 > Hva tenker du om sensur(censorship)?
 
@@ -73,14 +85,22 @@ Sensur er ikke bra for et samfunn som tror på frihet og rettferdighet.
 Utdanning handler ikke bare om læring, men også om kunnskap og ferdigheter.  
 Det er viktig fordi man kan bidra til samfunnet og utvikle seg til å bli selvstendig.   
 **Det er derfor utdanningssystemet i Norge sikrer at alle får grunnleggende kunnskap og ferdigheter.**
+
+<i class="fas fa-volume-up"
+   onclick="speakText('Å ja, man må ha god utdanning for å få en god jobb og et godt liv videre. Utdanning handler ikke bare om læring, men også om kunnskap og ferdigheter. Det er viktig fordi man kan bidra til samfunnet og utvikle seg til å bli selvstendig. Det er derfor utdanningssystemet i Norge sikrer at alle får grunnleggende kunnskap og ferdigheter.')">
+</i>
  
 > Hva er positiv og nagativ med jobbe veldig mye
 
-Jobben er en viktig del av livene våre, fordi vi tjener penger på dette og må betale regninger.  
+Jobben er en viktig del av livene våre, fordi vi tjener penger på dette og betaler alle regningene våre.  
 Men jeg tror vi må ha en balanse mellom privatlivet og yrkeslivet.  
 Vi må også tenke på at vi jobber med noe som skaper verdi både for oss og for selskapet vårt.  
 
-Vi må også tenke på at familien vår får den tiden den trenge 
+På den andre siden må vi også tenke på at familien vår får den tiden den trenger. 
 
 **Rett og slett er det viktig å jobbe smart, ikke bare mye..**
+
+<i class="fas fa-volume-up"
+   onclick="speakText('Jobben er en viktig del av livene våre, fordi vi tjener penger på dette og betaler alle regningene våre. Men jeg tror vi må ha en balanse mellom privatlivet og yrkeslivet. Vi må også tenke på at vi jobber med noe som skaper verdi både for oss og for selskapet vårt. På den andre siden må vi også tenke på at familien vår får den tiden den trenger. Rett og slett er det viktig å jobbe smart, ikke bare mye...')">
+</i>
 
