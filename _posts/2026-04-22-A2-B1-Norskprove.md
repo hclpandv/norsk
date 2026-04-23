@@ -43,7 +43,7 @@ Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut.
 Mange spiser is og pizza på denne dagen.  
 **Jeg synes 17. mai er en veldig hyggelig og spesiell dag.**
 
-> Kan du fortelle om et sport du liker?
+> Kan du fortelle om en sport du liker?
 
 Jeg liker cricket. Det er en sport som er veldig populær i India.
 Cricket er ikke bare en sport, men en religion i India.
