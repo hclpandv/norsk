@@ -74,6 +74,13 @@ Utdanning handler ikke bare om læring, men også om kunnskap og ferdigheter.
 Det er viktig fordi man kan bidra til samfunnet og utvikle seg til å bli selvstendig.   
 **Det er derfor utdanningssystemet i Norge sikrer at alle får grunnleggende kunnskap og ferdigheter.**
  
+> Hva er positiv og nagativ med jobbe veldig mye
 
+Jobben er en viktig del av livene våre, fordi vi tjener penger på dette og må betale regninger.  
+Men jeg tror vi må ha en balanse mellom privatlivet og yrkeslivet.  
+Vi må også tenke på at vi jobber med noe som skaper verdi både for oss og for selskapet vårt.  
 
+Vi må også tenke på at familien vår får den tiden den trenge 
+
+**Rett og slett er det viktig å jobbe smart, ikke bare mye..**
 
