@@ -46,7 +46,7 @@ Mange spiser is og pizza på denne dagen.
 > Kan du fortelle om en sport du liker?
 
 Jeg liker cricket. Det er en sport som er veldig populær i India.
-Cricket er ikke bare en sport, men en religion i India.
+Cricket er ikke bare en sport, men nesten en religion i India.  
 Jeg har sett på denne sporten siden jeg var barn.
 Da det var en kamp mellom India og Pakistan, var gatene i byen helt tomme.  
 Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se ham spille..  
