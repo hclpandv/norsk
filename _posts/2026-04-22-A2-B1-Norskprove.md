@@ -34,7 +34,22 @@ Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke
 
 Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang.<i class="fas fa-volume-up" onclick="speakText('Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang')"></i> 
 
+> Hvordan feirer du 17th mai?
 
+- 17. mai er en viktig dag i Norge. Det kalles nasjonaldagen, eller grunnlovsdagen.
+- På denne dagen drar vi til sentrum, og vi ser barnetog og parade.
+- Mange i Norge kler på seg bunad, som er en tradisjonell kjole.
+- Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut.
+- Mange spiser is og pizza på denne dagen.
+
+> Kan du fortelle om et sport du liker? 
+
+> Barna til innvandrere skal ikke snakke foreldres språk(enig eller uenig)?
+
+> Hva tenker du om sensur(censorship)? 
+
+> Trenger man god utdaning til å få god jobb?
+ 
 
 
 
