@@ -54,8 +54,11 @@ Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se
 
 > Barna til innvandrere skal ikke snakke foreldres språk(enig eller uenig)?
 
-Jeg tenker det er viktig å snakke norsk i Norge. Fordi det hjelpe å bli dem integrert in norsk samfunne.  
-
+Jeg er verken helt enig eller uenig her.  
+Jeg tenker det er viktig at barn av innvandrere snakker norsk i Norge, fordi det hjelper dem på skolen og gjør at de blir bedre integrert i det norske samfunnet.  
+Men jeg synes også det er viktig å tenke på at man kan uttrykke seg tydeligere og mer klart, og noen ganger er det enklere på sitt eget morsmål.  
+Det er også viktig å holde kontakt med familien som er i hjemlandet.  
+**Jeg mener at det er viktig å finne en god balanse mellom norsk og morsmål.**
 
 > Hva tenker du om sensur(censorship)?
 
