@@ -36,7 +36,7 @@ Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teate
 
 > Hvordan feirer du 17th mai?
 
-- 17. mai er en viktig dag i Norge. Det kalles nasjonaldagen, eller grunnlovsdagen.
+- `17. mai` er en viktig dag i Norge. Det kalles nasjonaldagen, eller grunnlovsdagen.
 - På denne dagen drar vi til sentrum, og vi ser barnetog og parade.
 - Mange i Norge kler på seg bunad, som er en tradisjonell kjole.
 - Selv om jeg er ny i Norge, synes jeg denne dagen ser veldig spennende ut.
