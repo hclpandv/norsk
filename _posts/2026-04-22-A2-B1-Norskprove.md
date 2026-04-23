@@ -48,7 +48,7 @@ Mange spiser is og pizza på denne dagen.
 Jeg liker cricket. Det er en sport som er veldig populær i India.
 Cricket er ikke bare en sport, men en religion i India.
 Jeg har sett på denne sporten siden jeg var barn.
-Når det er en kamp mellom India og Pakistan, er gatene i byen helt tomme.
+Da det var en kamp mellom India og Pakistan, var gatene i byen helt tomme.  
 Min favoritt crickettspiller er Sachin Tendulkar, og det var veldig magisk å se ham spille..  
 **For meg cricket er ikke bare om sport, men også om følelser, fellesskap og lidenskap.**
 
