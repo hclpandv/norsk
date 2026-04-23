@@ -25,14 +25,26 @@ Jeg er 41 år, Jeg er gift og har to barn – faktisk to døtre.
 Jeg er født og oppvokst i India, og jeg kommer fra en liten by som heter Ayodhya. Den ligger i den nordlige delen av India, cirka 600 kilometer fra New Delhi, som er hovedstaden.  
 Jeg liker veldig godt å bo i Norge, og jeg trives godt her med familien min.Jeg liker naturen i Norge generelt, og jeg liker å gå på tur. Noen ganger drar jeg også til strender, spesielt om sommeren
 
+<i class="fas fa-volume-up"
+   onclick="speakText('Hei alle sammen, jeg heter Vikas, og jeg kommer fra India. Jeg flyttet til Norge for nesten to år siden. Nå bor jeg i Oslo, på Nordstrand, sammen med familien min. Jeg er 41 år. Jeg er gift og har to barn – faktisk to døtre. Jeg er født og oppvokst i India, og jeg kommer fra en liten by som heter Ayodhya. Den ligger i den nordlige delen av India, cirka 600 kilometer fra New Delhi, som er hovedstaden. Jeg liker veldig godt å bo i Norge, og jeg trives godt her med familien min. Jeg liker naturen i Norge generelt, og jeg liker å gå på tur. Noen ganger drar jeg også til strender, spesielt om sommeren.')">
+</i>
+
 > Er det noen du ser opp til ?
 
 Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.(Bare når det blir spurt:
-Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.)<i class="fas fa-volume-up" onclick="speakText('Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.<<Bare når det blir spurt: Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.>>')"></i> 
+Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.)
+
+<i class="fas fa-volume-up"
+   onclick="speakText('Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre... Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv. (Bare når det blir spurt: Man kan alltid finne en måte å si fra og kjempe for det man tror på, men ikke med vold.)')">
+</i>
 
 > Kan du fortelle om et yrke du ønsker deg ?
 
-Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang.<i class="fas fa-volume-up" onclick="speakText('Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang')"></i> 
+Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang.
+
+<i class="fas fa-volume-up"
+   onclick="speakText('Jeg har alltid drømt om å bli skuespiller. Jeg har faktisk spilt i mange teaterstykker da jeg gikk på universitetet. Jeg tenker at skuespiller er et spennende yrke fordi man kan leve mange forskjellige liv gjennom roller. Jeg synes det er veldig fint å fortelle historier til andre gjennom kunsten min. Jeg ønsker å være med i et teater i Oslo en gang.')">
+</i>
 
 > Hvordan feirer du 17th mai?
 
@@ -76,7 +88,7 @@ Det er også viktig å holde kontakt med familien som er i hjemlandet.
 
 Jeg synes det ikke kan være sensur i et demokratisk land.    
 Sensur er ikke bra for et samfunn som tror på frihet og rettferdighet.     
-<<More Ideas>>  
+"<<More Ide`er>>"  
 **Jeg mener at fred, frihet og rettferdighet er veldig viktige i et demokrati.**
 
 > Trenger man god utdaning til å få god jobb?
