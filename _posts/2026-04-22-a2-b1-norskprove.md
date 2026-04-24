@@ -22,7 +22,7 @@ Lærer Karense Muntlig norskprøve 10 Tips https://www.youtube.com/watch?v=SOE_3
 Lærer Karense Muntlig norskprøve TEMA fritid og dagligliv https://www.youtube.com/watch?v=yxqlldC0vOo (Video 891)   
 Lærer Karense Muntlig norskprøve TEMA helse https://www.youtube.com/watch?v=GkXIBISFMuY (Video 893)  
 Lærer Karense Muntlig norskprøve TEMA arbeidsliv https://www.youtube.com/watch?v=s3FtSH7rLwo (Video 885)
-Lærer Karense Muntlig norskprøve TEMA familie https://www.youtube.com/watch?v=d82q0CIlTPM (Video 888)
+Lærer Karense Muntlig norskprøve TEMA familie https://www.youtube.com/watch?v=d82q0CIlTPM (Video 888)  
 Lærer Karense Muntlig norskprøve TEMA innvandring https://www.youtube.com/watch?v=aB65GeZL6Bo&t=131s (Video 913)
 {: .prompt-tip }
 
