@@ -18,7 +18,7 @@ Opinions, choices & meaning: Lurer på (wondering), Rett og slett (simply / hone
 {: .prompt-tip }
 
 > Vedios to watch :
-Lærer Karense Muntlig norskprøve 10 Tips https://www.youtube.com/watch?v=SOE_3obS6aI ((Video 1240)
+Lærer Karense Muntlig norskprøve 10 Tips https://www.youtube.com/watch?v=SOE_3obS6aI ((Video 1240)  
 Lærer Karense Muntlig norskprøve TEMA fritid og dagligliv https://www.youtube.com/watch?v=yxqlldC0vOo (Video 891)   
 Lærer Karense Muntlig norskprøve TEMA helse https://www.youtube.com/watch?v=GkXIBISFMuY (Video 893)  
 Lærer Karense Muntlig norskprøve TEMA arbeidsliv https://www.youtube.com/watch?v=s3FtSH7rLwo (Video 885)
