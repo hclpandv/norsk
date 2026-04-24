@@ -17,13 +17,13 @@ Time and Frequency: Av og til (sometimes), Et par ganger (a couple of times), Et
 Opinions, choices & meaning: Lurer på (wondering), Rett og slett (simply / honestly), Å sette pris på (to appreciate), Kommer til, Kommer an på, I stedet for, Den eneste
 {: .prompt-tip }
 
-> Vedios to watch :
-[Lærer Karense Muntlig norskprøve 10 Tips](https://www.youtube.com/watch?v=SOE_3obS6aI) (Video 1240)  
-Lærer Karense Muntlig norskprøve TEMA fritid og dagligliv https://www.youtube.com/watch?v=yxqlldC0vOo (Video 891)   
-Lærer Karense Muntlig norskprøve TEMA helse https://www.youtube.com/watch?v=GkXIBISFMuY (Video 893)  
-Lærer Karense Muntlig norskprøve TEMA arbeidsliv https://www.youtube.com/watch?v=s3FtSH7rLwo (Video 885)
-Lærer Karense Muntlig norskprøve TEMA familie https://www.youtube.com/watch?v=d82q0CIlTPM (Video 888)  
-Lærer Karense Muntlig norskprøve TEMA innvandring https://www.youtube.com/watch?v=aB65GeZL6Bo&t=131s (Video 913)
+> **Videos to watch:**  
+[Lærer Karense – Muntlig norskprøve: 10 tips](https://www.youtube.com/watch?v=SOE_3obS6aI) (Video 1240)  
+[Lærer Karense – Muntlig norskprøve: Tema fritid og dagligliv](https://www.youtube.com/watch?v=yxqlldC0vOo) (Video 891)  
+[Lærer Karense – Muntlig norskprøve: Tema helse](https://www.youtube.com/watch?v=GkXIBISFMuY) (Video 893)  
+[Lærer Karense – Muntlig norskprøve: Tema arbeidsliv](https://www.youtube.com/watch?v=s3FtSH7rLwo) (Video 885)  
+[Lærer Karense – Muntlig norskprøve: Tema familie](https://www.youtube.com/watch?v=d82q0CIlTPM) (Video 888)  
+[Lærer Karense – Muntlig norskprøve: Tema innvandring](https://www.youtube.com/watch?v=aB65GeZL6Bo&t=131s) (Video 913)   
 {: .prompt-tip }
 
 > Introduction (not really part of evaluation)
