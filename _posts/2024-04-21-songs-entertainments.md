@@ -27,3 +27,7 @@ Songs and Entertainment
 [Stjernestøv, by Aurora](https://www.youtube.com/watch?v=3lFkDc6dFoY) *Beautiful song with English and Norsk subs. Stjernestøv=Stardust*  
 [Skam](https://www.dailymotion.com/video/x54m3h7 ) *Web series with English subs*  
 [Side Om Side](https://tv.nrk.no/serie/side-om-side/sesong/1) *Web series on NRK with norsk subs, only available in Norway. If translate the NRK page using chrome, subs will also be translated*   
+
+Spotify songs:  
+1. https://open.spotify.com/track/3KCLfjq653JidMnfGDRUu2
+2. https://open.spotify.com/track/5VeJ5bSOWQMIxwJKUEuEDO
