@@ -29,5 +29,5 @@ Songs and Entertainment
 [Side Om Side](https://tv.nrk.no/serie/side-om-side/sesong/1) *Web series on NRK with norsk subs, only available in Norway. If translate the NRK page using chrome, subs will also be translated*   
 
 Spotify songs:  
-1. https://open.spotify.com/track/3KCLfjq653JidMnfGDRUu2
-2. https://open.spotify.com/track/5VeJ5bSOWQMIxwJKUEuEDO
+1. [Mango IPA](https://open.spotify.com/track/3KCLfjq653JidMnfGDRUu2)
+2. [Bare min](https://open.spotify.com/track/5VeJ5bSOWQMIxwJKUEuEDO)
