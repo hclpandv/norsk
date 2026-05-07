@@ -38,6 +38,15 @@ Jeg liker veldig godt å bo i Norge, og jeg trives godt her med familien min.Jeg
    onclick="speakText('Hei alle sammen, jeg heter Vikas, og jeg kommer fra India. Jeg flyttet til Norge for nesten to år siden. Nå bor jeg i Oslo, på Nordstrand, sammen med familien min. Jeg er 41 år. Jeg er gift og har to barn – faktisk to døtre. Jeg er født og oppvokst i India, og jeg kommer fra en liten by som heter Ayodhya. Den ligger i den nordlige delen av India, cirka 600 kilometer fra New Delhi, som er hovedstaden. Jeg liker veldig godt å bo i Norge, og jeg trives godt her med familien min. Jeg liker naturen i Norge generelt, og jeg liker å gå på tur. Noen ganger drar jeg også til strender, spesielt om sommeren.')">
 </i>
 
+> Synes du det er lett eller vanskelig å lære norsk? Hvorfor?
+
+Jeg synes ingenting er så vanskelig hvis man trives med det man gjør. Det er ikke så vanskelig for meg å lære norsk, fordi jeg ser at det ikke bare handler om et språk, men også om en kultur, et land og mange historier som kommer med det.
+I moderne tid har vi mange kanaler på YouTube, ChatGPT og undertekster på norsk TV og Netflix. Det gjør det lettere å lære norsk. Men man må være motivert og finne riktige verktøy.
+
+<i class="fas fa-volume-up"
+   onclick="speakText('Jeg synes ingenting er så vanskelig hvis man trives med det man gjør. Det er ikke så vanskelig for meg å lære norsk, fordi jeg ser at det ikke bare handler om et språk, men også om en kultur, et land og mange historier som kommer med det. I moderne tid har vi mange kanaler på YouTube, ChatGPT og undertekster på norsk TV og Netflix. Det gjør det lettere å lære norsk. Men man må være motivert og finne riktige verktøy.')">
+</i>
+
 > Er det noen du ser opp til ?
 
 Jeg ser opp til Mahatma Gandhi. Han var en politisk leder fra India og jobbet for fred og rettferdighet. Han levde i en tid da India var under britisk styre. Han fortalte folk at frihet var deres rett — ikke noe de skulle be om. Han kjempet med ikkevold og sannhet, og det synes jeg er modig. Han inspirerte mange mennesker i hele verden. Dette gir meg motivasjon i mitt eget liv.(Bare når det blir spurt:
@@ -111,7 +120,7 @@ Det er viktig fordi man kan bidra til samfunnet og utvikle seg til å bli selvst
    onclick="speakText('Å ja, man må ha god utdanning for å få en god jobb og et godt liv videre. Utdanning handler ikke bare om læring, men også om kunnskap og ferdigheter. Det er viktig fordi man kan bidra til samfunnet og utvikle seg til å bli selvstendig. Det er derfor utdanningssystemet i Norge sikrer at alle får grunnleggende kunnskap og ferdigheter.')">
 </i>
  
-> Hva er positiv og nagativ med jobbe veldig mye
+> Hva er positivt og nagativt med jobbe veldig mye
 
 Jobben er en viktig del av livene våre, fordi vi tjener penger på dette og betaler alle regningene våre.  
 Men jeg tror vi må ha en balanse mellom privatlivet og yrkeslivet.  
