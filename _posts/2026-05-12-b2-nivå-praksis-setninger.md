@@ -11,7 +11,7 @@ mermaid: true
 
 Youtube [Source](https://www.youtube.com/watch?v=wlvbad2rQM4&t=1308s)
 
-## Tema 1, familie og hverdagsliv
+## Tema 1 - familie og hverdagsliv
 
 1. Familien er en viktig del av livet vårt.
 2. Selv om mange bor alene, er familien fortsatt viktig i Norge.
@@ -36,7 +36,7 @@ Youtube [Source](https://www.youtube.com/watch?v=wlvbad2rQM4&t=1308s)
 21. Selv om vi bor i et rikt land, har ikke alle et trygt familieliv.
 22. Jeg mener at familien er grunnlaget for et stabilt samfunn.
 
-## Tema 2, Norge
+## Tema 2 - Norge
 
 1. Norge er et land med høy levestandard sammenlignet med andre land. 
 2. Selv om vi har mye velstand, finnes det også sosiale forskjeller. (velstand=prosperity/wealth/good living standards)
@@ -47,4 +47,15 @@ Youtube [Source](https://www.youtube.com/watch?v=wlvbad2rQM4&t=1308s)
 7. Selv om Norge har ytringsfrihet, er det ikke lov å spre hat, true andre eller oppfordre til vold. (å true=to threaten)
 8. Jeg synes det er positivt at Norge deltar i internasjonalt samarbeid.
 9. Mange opplever at likestilling er viktig verdi i Norge. (var-Di=hard D uttale)
-10. 
+10. Jeg tror frivillighet er en viktig del av det norske samfunnet.
+11. Norge er rikt på naturressurse som olje, gass og fisk.
+12. Jeg synes det er viktig å satse på utdanning og teknologi. (å satse på=to invest in/to focus on/to prioritize)
+13. Selv om vi har mye frihet, har vi også ansvar for fellesskapet. 
+14. Jeg mener at toleranse er en viktig verdi i dagens norge. 
+15. Norge har blitt mer internasjonalt på grunn av globaliseringen. 
+16. Jeg synes det er positivt at ulike kuturer møtes i Norge. 
+17. Jeg tror vi trenger mer dialog mellom ulike grupper. 
+18. Selv om landet er lite, har norge stor innflytense internasjonalt. 
+19. Norge i dag er et samfunn i stadig utvikling. (stadig=steady/constant)
+
+## Tema 3 - helse, trvsel og livsmestring.
