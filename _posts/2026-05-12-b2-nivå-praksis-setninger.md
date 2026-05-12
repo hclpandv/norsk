@@ -1,5 +1,5 @@
 ---
-title: B2 Nivå praksis setninger
+title: B2-nivå praksissetninger
 author: hclpandv
 date: 2026-05-12 11:33:00 +0800
 categories: [Norsk, general, norskprøve]
@@ -8,6 +8,8 @@ mermaid: true
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+
+Youtube [Source](https://www.youtube.com/watch?v=wlvbad2rQM4&t=1308s)
 
 ## Tema 1, familie og hverdagsliv
 
@@ -33,3 +35,16 @@ mermaid: true
 20. Barna trenger både frihet og grenser for å utvikle seg.
 21. Selv om vi bor i et rikt land, har ikke alle et trygt familieliv.
 22. Jeg mener at familien er grunnlaget for et stabilt samfunn.
+
+## Tema 2, Norge
+
+1. Norge er et land med høy levestandard sammenlignet med andre land. 
+2. Selv om vi har mye velstand, finnes det også sosiale forskjeller. (velstand=prosperity/wealth/good living standards)
+3. Mange setter pris på naturen som en viktig dev av norsk identitet. 
+4. Norge er kjent for demokrati og politisk stabilitet. 
+5. Innvandring har forandret samfunnet og gjort det mer mangfoldig. 
+6. Selv om vi har ytringsfrihet, finnes det grenser for hva man kan si.
+7. Selv om Norge har ytringsfrihet, er det ikke lov å spre hat, true andre eller oppfordre til vold. (å true=to threaten)
+8. Jeg synes det er positivt at Norge deltar i internasjonalt samarbeid.
+9. Mange opplever at likestilling er viktig verdi i Norge. (var-Di=hard D uttale)
+10. 
