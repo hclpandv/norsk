@@ -88,4 +88,4 @@ mermaid: true
 
 1. Dont use skal for prediction, its only for plan... use kommer til å...
 2. Jeg tror telnologien kommer til å bli bedre. 
-3. Mobilen er veldig nyttig, men kan bli avhengig
+3. Mobilen er veldig nyttig, men kan bli avhengig. 
