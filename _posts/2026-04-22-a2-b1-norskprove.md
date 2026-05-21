@@ -9,7 +9,96 @@ mermaid: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-## Questions asked in previous exams
+## Framework to build answers for A2-B1 muntlig norskprøve
+
+0. Introduction : 
+
+```
+Ja, selvfølgelig.. Jeg heter .. 
+Til daglig, jobber jeg som IT-konsulent.. 
+og jeg trives veldig godt her.
+```
+
+1. OPPGAVE A : INDIVIDUELL A2 FORTELLE/BESKRIVE: 
+
+> Eksempel på oppgaver:  
+*Kan du fortelle om hvordan du bruker data/pc på skolen?*  
+Goal: SIMPLE + CLEAR + NO opinion needed  
+{: .prompt-tip }
+
+```
+Jeg bruker … i arbeid/hverdag.
+Dette innebærer at …
+Et konkret eksempel er …
+Dette er viktig fordi …
+
+# Model answer
+
+Jeg bruker PC daglig i jobben min.
+Dette innebærer at jeg jobber med programmering, møter og systemdesign.
+Et konkret eksempel er at jeg utvikler løsninger i skyen.
+Dette er viktig fordi det gjør arbeidsprosesser mer effektive.
+
+```
+
+2. OPPGAVE B : SAMTALE A2-B1 UTVEKSLE SYNSPUNKTER/MENINGER
+
+> Eksempel på oppgaver:  
+*Hva mener dere er det beste man kan gjøre for å bli kjent med nye folk?*  
+Goal: SHORT OPINION + REASON + SIMPLE EXAMPLE  
+{: .prompt-tip }
+
+```
+Jeg mener at …
+Det skyldes at …
+På den ene siden …
+På den andre siden …
+Hva tenker dere om det?
+
+# Model answer
+
+Jeg mener at det er viktig å være sosial for å trives i samfunnet.
+Det skyldes at mennesker er avhengige av kontakt med andre.
+På den ene siden kan teknologi gjøre det enklere å holde kontakt.
+På den andre siden kan det føre til mindre fysisk sosial kontakt.
+Hva tenker dere om dette?
+```
+
+3. OPPGAVE C : INDIVIDUELL B1 UTTRYKKE SYNSPUNKTER/MENINGER
+
+> Eksempel på oppgaver:  
+*Synes du det er viktig å ta vare på kulturen fra hjemlandet ditt når du bor i
+Norge?*  
+{: .prompt-tip }
+
+```
+Å ja, agsolut .. veldig viktig..  
+Til å begynne med, liker jeg å si at ...
+Jeg tror også.. 
+etter min mening.. 
+for å konkludere, synes jeg at .. 
+
+Etter min mening …
+Det er flere grunner til dette.
+For det første …
+For det andre …
+Samtidig må man også …
+Alt i alt mener jeg at …
+
+# Model answer
+
+Etter min mening er det viktig å ta vare på kulturen fra hjemlandet sitt i Norge.
+Det er flere grunner til dette.
+For det første gir det en sterk identitetsfølelse.
+For det andre bidrar det til kulturelt mangfold i samfunnet.
+Samtidig må man erkjenne at det også er viktig å tilpasse seg norsk kultur.
+Alt i alt mener jeg at balanse mellom kulturene er det beste.
+
+```
+
+
+
+## More tips
 
 > Words and Phrases to include in our responses :  
 Setence connectors: Selv om (even though), På den andre siden (on the other hand), Samtidig (at the same time), I tillegg (in addition), Til slutt (finally), Etter hvert (eventually / gradually), Forresten (by the way)      
@@ -25,6 +114,8 @@ Opinions, choices & meaning: Lurer på (wondering), Rett og slett (simply / hone
 [Lærer Karense – Muntlig norskprøve: Tema familie](https://www.youtube.com/watch?v=d82q0CIlTPM) (Video 888)  
 [Lærer Karense – Muntlig norskprøve: Tema innvandring](https://www.youtube.com/watch?v=aB65GeZL6Bo&t=131s) (Video 913)   
 {: .prompt-tip }
+
+## Questions asked in previous exams
 
 > Introduction (not really part of evaluation)
 
