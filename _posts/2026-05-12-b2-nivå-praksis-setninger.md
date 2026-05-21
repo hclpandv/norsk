@@ -83,9 +83,28 @@ mermaid: true
 
 1. Sosiale medier er bra for å holde kontakt, MEN det kan også være negativt på grunn av false nyheter. 
 2. Dugnad (voluntary work) - 
+3. Hvorden holder du deg opptert på hva skjer i verden ? - Jeg plier å lese nyheter på mobilen min hver morgen. Jeg leser ofte NRK eller VG for å se hva som sjer i norge, og Google news for globale nyheter. Jeg sunes det er viktig å følge med på nyhetene for å forstå samfunnt vi lever i. 
+4. Jeg mener at det er både positivt og negativt. På den ene siden det er lett å holde kontakt med familie og venner i utlandet. På den andre siden det tar mye tid, og vi blir påvirket av falske byheter og urealistiske idealer. 
+
 
 ## Tema 11 - teknologi og fremtiden
 
 1. Dont use skal for prediction, its only for plan... use kommer til å...
 2. Jeg tror telnologien kommer til å bli bedre. 
 3. Mobilen er veldig nyttig, men man kan bli avhengig (av den).
+
+## Improve your Norwegian fluency with these 10 GOLDEN SENTENCES
+
+1. Etter min mening er det lurt å lære minst ett annet språk i tillegg til morsmålet sitt.
+2. Ut fra min erfaring så gir reising et mye større perspektiv på verden.
+3. Generalt så spiller trening en veldig viktig rolle for helse. 
+4. Det er ikke sånn at introverte ikke kan ha lederroller. 
+5. Ifølge flere studier, så* er mangel på søvn knyttet til mange ulike helseproblemer. 
+6. Når det gjelder teknologi, så* argumenterer (hevder) noen at det hindrer ekte interaksjoner, mens andre mener det gjør oss mer knyttet til hverandre. 
+7. En mulig løsning på folks helseproblemer kan være å redusere inntaket av ultraprosessert mat. 
+8. Så, når man vier opp både fordelene og ulempene, så er sosiale medier er strålede verktøy for kommunikasjon, men noe som også kan være probmatisk med tenke på personvern.
+9. Jeg er usikker på om jeg burde søke på den jobben. 
+10. Vi bestemte oss for å dra til Spania istedenfor Italia. 
+
+
+
